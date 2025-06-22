@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Infrared signatures of a quantum bounce in a minisuperspace analysis of Lemaître-Tolman-Bondi dust collapse"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2110.06247
+excerpt: 'We study the mode decomposition of the unitarily evolving wave packet constructed for the quantum model of spherically symmetric dust collapsing in a marginally bound Lemaître-Tolman-Bondi (LTB) model.'
+date: Dec 15, 2021
+venue: 'Phys.Rev.D 104 (2021) 12, 126027'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1103/PhysRevD.104.126027'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
