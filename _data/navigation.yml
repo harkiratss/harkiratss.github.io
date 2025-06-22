@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
     
- - title: "Research"
-    url: /research/
+ - title: "Portfolio" # hodge podge for research
+    url: /portfolio/
     
   - title: "Talks"
     url: /talks/    
@@ -21,10 +21,7 @@ main:
     url: /cv/
     
   - title: "Teaching"
-    url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
+    url: /teaching/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
