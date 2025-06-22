@@ -11,10 +11,7 @@ main:
   - title: "Publications"
     url: /publications/
     
- - title: "Research" # hodge podge for research
-    url: /research/
-    
-  - title: "Talks"
+  - title: "Research"
     url: /talks/    
     
   - title: "CV"
@@ -23,8 +20,8 @@ main:
   - title: "Teaching"
     url: /teaching/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
