@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
     
- - title: "Portfolio" # hodge podge for research
-    url: /portfolio/
+ - title: "Research" # hodge podge for research
+    url: /research/
     
   - title: "Talks"
     url: /talks/    
