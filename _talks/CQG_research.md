@@ -2,7 +2,7 @@
 title: "Canonical Quantum Gravity"
 collection: talks
 type: "Tutorial"
-permalink: /reesearch/CQG
+permalink: /research/CQG
 ---
 ---
 
