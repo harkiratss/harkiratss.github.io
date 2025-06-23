@@ -3,6 +3,7 @@ title: "Teaching Assistance"
 collection: teaching
 type: "Undergraduate/Postgraduate courses"
 permalink: /teaching/IISER
+excerpt: Teaching assistance for lab and theory courses during PhD at Indian Institute of Science Education and Research Mohali.
 venue: "Department of Physical Sciences, IISER Mohali"
 date: 2019-01-01
 location: "Mohali, India"
@@ -13,7 +14,7 @@ location: "Mohali, India"
 TA-ship during PhD 
 ======
 
-Duties included: lab course required daily evaluation of experiments and theory courses required evaluation of assignments.
+Duties included daily evaluation of laboratory experiments and regular assessment of assignments for theoretical courses. 
 
 2022-23 PHY111: Physics Lab mechanics (Fall), PHY663: Relativistic cosmology (Spring)
 
