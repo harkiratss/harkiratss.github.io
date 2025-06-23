@@ -2,7 +2,7 @@
 title: "Einstein and Jordan frame correspondence in quantum cosmology: expansion-collapse duality"
 collection: publications
 category: manuscripts
-permalink: /publications/EPJC_QC_BD
+permalink: /publications/EPJC_QC_BD_2023/
 excerpt: 'We investigate the status of the conformal map between Einstein and Jordan frames of a scalar-tensor theory at the quantum level with the focus on the apparent paradox: the classical conformal map allows an always expanding Einstein frame to map to a Jordan frame that is always contracting, and at some point, the formalism maps a classical system (fluctuations are ignorable) to a quantum system (fluctuations are not ignorable). We find that the conformal map holds at the quantum level, and despite having drastically different cosmological evolution, the rise in quantum characteristics in a collapsing frame implies the same in its expanding counterpart. '
 date: Sep 10, 2023
 venue: 'Eur.Phys.J.C 83 (2023) 9, 803'
