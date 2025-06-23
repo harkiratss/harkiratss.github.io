@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Department of Physical Sciences, IISER Mohali, 2024
+  
      Thesis title: Quantum gravity with perfect fluid: ambiguities and their imprints
+  
      Supervisor: Kinjalk Lochan
 * M.Sc. in Department of Physics, Panjab University, Chandigarh, India, 2017
 * B.Sc. in JCDAV College, Dasuya, Punjab, India
