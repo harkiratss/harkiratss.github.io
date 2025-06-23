@@ -65,32 +65,38 @@ Conference proceedings
 
 Presentations in Scientific Events
 ======
-2025 • 33rd Indian Association for General Relativity and Gravitation Meeting (IAGRG 2025),
-       BITS Pilani, India
+2025 • 33rd Indian Association for General Relativity and Gravitation Meeting (IAGRG 2025), <br />
+       BITS Pilani, India <br />
        Talk title: Are accelerated detectors sensitive to Planck scale changes?
 
-2024 • National conference on classical and quantum gravity, CUSAT Cochin, Kerala
+2024 • National conference on classical and quantum gravity, <br />
+       CUSAT Cochin, India <br />
        Talk title: Quantum cosmology with perfect fluid: ambiguities and their imprints
 
-2023 • Time and clocks, WE-Heraeus-Seminar, Physikzentrum Bad Honnef, Germany
+2023 • Time and clocks, WE-Heraeus-Seminar, <br />
+       Physikzentrum Bad Honnef, Germany <br />
        Poster title :- Quantum cosmology with fluid clock: Implications for the dressed metric-
                        like approaches
 
-2023 • 10th International Conference on Gravitation and Cosmology (ICGC 2023), IIT Guwahati, India
+     • 10th International Conference on Gravitation and Cosmology (ICGC 2023), IIT Guwahati, India <br />
        Talk title :- Analyzing quantum gravity spillover in the semiclassical regime
 
-2023 • Workshop on “Observables in Quantum Gravity”, IISER Mohali, India
+     • Workshop on “Observables in Quantum Gravity”, IISER Mohali, India <br />
        Talk title :- Signatures of quantum gravity with perfect fluid
 
-2021 • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), ICRA, Italy
-       Session :- Loop Quantum Gravity: Cosmology and Black Holes
-       Talk title :- Infrared signatures of quantum bounce in collapsing geometry
-2021 • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), ICRA, Italy
-       Session :- Extended Theories of Gravity and Quantum Cosmology
+2021 • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
+       ICRA, Italy <br />
+       Session :- Loop Quantum Gravity: Cosmology and Black Holes <br />
+       Talk title :- Infrared signatures of quantum bounce in collapsing geometry 
+       
+     • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
+       ICRA, Italy <br />
+       Session :- Extended Theories of Gravity and Quantum Cosmology <br />
        Talk title :- Operator Ordering Ambiguity in Observables of Quantum Cosmology
 
 2020 • 31st meeting (Online) of the Indian Association for General Relativity and Gravitation
-       (IAGRG 2020), IIT Gandhinagar
+       (IAGRG 2020), <br />
+       IIT Gandhinagar, India <br />
        Talk title :- Infrared signature of quantum bounce in collapsing geometry
   
 Teaching Assistance
