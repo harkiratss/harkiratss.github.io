@@ -11,8 +11,8 @@ I am a theoretical physicist currently working as a Research Associate at the In
 
 Below are a few visual excerpts from my recent works.
 The first figure shows the quantum dynamics of the FLRW universe with dust and a positive cosmological constant. The universe undergoes quantum bounce as depicted by probability distribution, the expectation value and quantum uncertainty of the volume of universe for a wave packet.
-The second figure depicts the corresponding results for a negative cosmological constant, highlighting the contrasting dynamics where the quantum universe undergoing cyclic evolution.
-Finally, the third figure captures quantum correlations of a test field propagating in a spacetime undergoing critical gravitational collapse, taken from the endpoint of a numerical simulation.
+The second figure depicts the corresponding results for a negative cosmological constant, highlighting the contrasting dynamics where the quantum universe undergoing cyclic evolution in this case.
+Finally, the third figure captures quantum correlations of a test field propagating in a spacetime undergoing critical collapse, evaluated at the end of the numerical simulation.
 <table>
   <tr>
     <td><img src="/images/QC1.png" width="600"/></td>
