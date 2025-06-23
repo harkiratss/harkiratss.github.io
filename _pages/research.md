@@ -23,7 +23,7 @@ author_profile: true
       - Observables in Classical and Quantum Gravity:
 
 
-<strong style="font-size: 2rem; font-weight: bold;">Collaborators</strong>
+<strong style="font-size: 1.5rem; font-weight: bold;">Collaborators</strong>
 ======
       - <a href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
       - <a href="https://supritsinghlab.github.io">Suprit Singh</a>
