@@ -1,5 +1,0 @@
----
-collection: talks
-type: "Tutorial"
----
-
