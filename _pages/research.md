@@ -24,7 +24,7 @@ author_profile: true
 
 
 <strong style="font-size: 1.5rem; font-weight: bold;">Collaborators</strong>
-======
+
       - <a href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
       - <a href="https://supritsinghlab.github.io">Suprit Singh</a>
       - <a href="https://homepages.iitb.ac.in/~shanki/index.html">S. Shankaranarayanan</a>
