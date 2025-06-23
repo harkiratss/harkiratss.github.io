@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,17 +13,17 @@ redirect_from:
 <strong>Education</strong>
 ======
 * Ph.D in Department of Physical Sciences, IISER Mohali, 2024
-     Thesis title: Quantum gravity with perfect fluid: ambiguities and their imprints <br />
-     Supervisor: Kinjalk Lochan <br />
+     Thesis title: Quantum gravity with perfect fluid: ambiguities and their imprints 
+     Supervisor: Kinjalk Lochan 
 * M.Sc. in Department of Physics, Panjab University, Chandigarh, India, 2017
 * B.Sc. in JCDAV College, Dasuya, Punjab, India
 
 <strong>Work experience</strong>
 ======
 * 2024--Present: Research Associate
-   * Department of Physics <br />
-     IIT Delhi <br />
-     Supervisor: Suprit Singh <br />
+   * Department of Physics 
+     IIT Delhi 
+     Supervisor: Suprit Singh 
 
 <strong>Publications</strong>
 ======
@@ -66,8 +66,8 @@ redirect_from:
 
 <strong>Presentations in Scientific Events</strong>
 ======
-2025 • 33rd Indian Association for General Relativity and Gravitation Meeting (IAGRG 2025), <br />
-       BITS Pilani, India <br />
+2025 • 33rd Indian Association for General Relativity and Gravitation Meeting (IAGRG 2025), 
+       BITS Pilani, India
        Talk title: Are accelerated detectors sensitive to Planck scale changes?
 
 2024 • National conference on classical and quantum gravity, <br />
@@ -79,10 +79,10 @@ redirect_from:
        Poster title :- Quantum cosmology with fluid clock: Implications for the dressed metric-
                        like approaches
 
-2023 • 10th International Conference on Gravitation and Cosmology (ICGC 2023), IIT Guwahati, India <br />
+     • 10th International Conference on Gravitation and Cosmology (ICGC 2023), IIT Guwahati, India <br />
        Talk title :- Analyzing quantum gravity spillover in the semiclassical regime
 
-2023 • Workshop on “Observables in Quantum Gravity”, IISER Mohali, India <br />
+     • Workshop on “Observables in Quantum Gravity”, IISER Mohali, India <br />
        Talk title :- Signatures of quantum gravity with perfect fluid
 
 2021 • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
@@ -90,7 +90,7 @@ redirect_from:
        Session :- Loop Quantum Gravity: Cosmology and Black Holes <br />
        Talk title :- Infrared signatures of quantum bounce in collapsing geometry 
        
-2021 • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
+     • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
        ICRA, Italy <br />
        Session :- Extended Theories of Gravity and Quantum Cosmology <br />
        Talk title :- Operator Ordering Ambiguity in Observables of Quantum Cosmology
