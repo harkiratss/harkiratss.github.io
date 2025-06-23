@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
+ <pre>
+  
+<strong>Education</strong>
 ======
 * Ph.D in Department of Physical Sciences, IISER Mohali, 2024
      Thesis title: Quantum gravity with perfect fluid: ambiguities and their imprints <br />
@@ -17,14 +18,14 @@ Education
 * M.Sc. in Department of Physics, Panjab University, Chandigarh, India, 2017
 * B.Sc. in JCDAV College, Dasuya, Punjab, India
 
-Work experience
+<strong>Work experience</strong>
 ======
 * 2024--Present: Research Associate
    * Department of Physics <br />
      IIT Delhi <br />
      Supervisor: Suprit Singh <br />
 
-Publications
+<strong>Publications</strong>
 ======
 [1] Vikramaditya Mondal, Harkirat Singh Sahota, & Kinjalk Lochan, “Exact path integrals
     on half-line in quantum cosmology with a fluid clock and aspects of operator ordering
@@ -46,7 +47,7 @@ Publications
     in a minisuperspace analysis of Lemaître-Tolman-Bondi dust collapse” Phys. Rev. D 104,
     (2021) 12, 126027
 
-Preprints
+<strong>Preprints</strong>
 ======
 [1] Harkirat Singh Sahota, Dipayan Mukherjee, & S. Shankaranarayanan, “An exactly solv-
     able model of quantum cosmology: the Hydrogen atom analogy with dust and cosmological
@@ -55,7 +56,7 @@ Preprints
 [2] Harkirat Singh Sahota, Suprit Singh, & Ashish Pandita, “Non-local correlations of a
     test quantum field in gravitational collapse”, arXiv:2505.04701
 
-Conference proceedings
+<strong>Conference proceedings</strong>
 ======
 [1] Harkirat Singh Sahota, & Kinjalk Lochan, “Infrared signatures of quantum bounce in collapsing
     geometry”, 16th Marcel Grossmann Meeting, pp. 4247-4255 (2023)
@@ -63,7 +64,7 @@ Conference proceedings
 [2] Harkirat Singh Sahota, & Kinjalk Lochan, Operator ordering ambiguity in observables of quantum
     cosmology”, 16th Marcel Grossmann Meeting, pp. 538-547 (2023)
 
-Presentations in Scientific Events
+<strong>Presentations in Scientific Events</strong>
 ======
 2025 • 33rd Indian Association for General Relativity and Gravitation Meeting (IAGRG 2025), <br />
        BITS Pilani, India <br />
@@ -99,7 +100,7 @@ Presentations in Scientific Events
        IIT Gandhinagar, India <br />
        Talk title :- Infrared signature of quantum bounce in collapsing geometry
   
-Teaching Assistance
+<strong>Teaching Assistance</strong>
 ======
 2024-25 NPTEL noc25-ph10 (Foundations of quantum theory: Relativistic approach)
 
@@ -113,10 +114,11 @@ Teaching Assistance
 
 2018-19 IDC 102: Hands-on electronics (Spring)
 
-Skills
+<strong>Skills</strong>
 ======
 * Programming Languages: Mathematica, C/C++, Python, Julia
 
 * Operating systems: GNU/Linux, Windows
 
 * Typesetting Software: LATEX
+ </pre>
