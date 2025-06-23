@@ -9,3 +9,4 @@ redirect_from:
 
 I am a theoretical physicist working at the Indian Institute of Technology Delhi as a research associate. My research focusses on everything quantum and gravity. 
 
+![image](/images/Sahota_Photograph.jpg)
