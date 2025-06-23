@@ -11,8 +11,8 @@ I am a theoretical physicist working at the Indian Institute of Technology Delhi
 
 <table>
   <tr>
-    <td><img src="/images/QC1.png" width="500"/></td>
-    <td><img src="/images/QC3.png" width="500"/></td>
-    <td><img src="/images/contour_plot_A=5.0.png" width="500"/></td>
+    <td><img src="/images/QC1.png" width="600"/></td>
+    <td><img src="/images/QC3.png" width="600"/></td>
+    <td><img src="/images/contour_plot_A=5.0.png" width="600"/></td>
   </tr>
 </table>
