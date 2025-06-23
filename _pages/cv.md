@@ -21,7 +21,9 @@ Work experience
 ======
 * 2024--Present: Research Associate
    * Department of Physics
+     
      IIT Delhi
+     
      Supervisor: Suprit Singh
 
 Publications
