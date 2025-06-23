@@ -1,5 +1,6 @@
 ---
 collection: talks
+type: "Tutorial"
 ---
 
 ## Collaborators
