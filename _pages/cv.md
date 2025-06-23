@@ -12,21 +12,17 @@ redirect_from:
 Education
 ======
 * Ph.D in Department of Physical Sciences, IISER Mohali, 2024
-  
-     Thesis title: Quantum gravity with perfect fluid: ambiguities and their imprints
-  
-     Supervisor: Kinjalk Lochan
+     Thesis title: Quantum gravity with perfect fluid: ambiguities and their imprints <br />
+     Supervisor: Kinjalk Lochan <br />
 * M.Sc. in Department of Physics, Panjab University, Chandigarh, India, 2017
 * B.Sc. in JCDAV College, Dasuya, Punjab, India
 
 Work experience
 ======
 * 2024--Present: Research Associate
-   * Department of Physics
-     
-     IIT Delhi
-     
-     Supervisor: Suprit Singh
+   * Department of Physics <br />
+     IIT Delhi <br />
+     Supervisor: Suprit Singh <br />
 
 Publications
 ======
