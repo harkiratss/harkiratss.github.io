@@ -12,17 +12,17 @@ redirect_from:
 Education
 ======
 * Ph.D in Department of Physical Sciences, IISER Mohali, 2024
-  * Thesis title: Quantum gravity with perfect fluid: ambiguities and their imprints
-  * Supervisor: Kinjalk Lochan
-* M.S. in Department of Physics, Panjab University, Chandigarh, India, 2017
-* B.S. in JCDAV College, Dasuya, Punjab, India
+     Thesis title: Quantum gravity with perfect fluid: ambiguities and their imprints
+     Supervisor: Kinjalk Lochan
+* M.Sc. in Department of Physics, Panjab University, Chandigarh, India, 2017
+* B.Sc. in JCDAV College, Dasuya, Punjab, India
 
 Work experience
 ======
 * 2024--Present: Research Associate
-  * Department of Physics
-  * IIT Delhi
-  * Supervisor: Suprit Singh
+   * Department of Physics
+     IIT Delhi
+     Supervisor: Suprit Singh
 
 Publications
 ======
@@ -54,6 +54,14 @@ Preprints
 
 [2] Harkirat Singh Sahota, Suprit Singh, & Ashish Pandita, “Non-local correlations of a
     test quantum field in gravitational collapse”, arXiv:2505.04701
+
+Conference proceedings
+======
+[1] Harkirat Singh Sahota, & Kinjalk Lochan, “Infrared signatures of quantum bounce in collapsing
+    geometry”, 16th Marcel Grossmann Meeting, pp. 4247-4255 (2023)
+
+[2] Harkirat Singh Sahota, & Kinjalk Lochan, Operator ordering ambiguity in observables of quantum
+    cosmology”, 16th Marcel Grossmann Meeting, pp. 538-547 (2023)
 
 Presentations in Scientific Events
 ======
