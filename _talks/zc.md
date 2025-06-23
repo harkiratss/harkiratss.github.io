@@ -1,3 +1,8 @@
+---
+title: ""
+collection: talks
+type: "Tutorial"
+---
 ## Collaborators
 
 - [Kinjalk Lochan](https://www.iisermohali.ac.in/faculty/dps/kinjalk)
