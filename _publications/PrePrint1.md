@@ -4,6 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/arxiv_1
 date: May 22, 2025
+other_authors: "Dipayan Mukherjee, S. Shankaranarayanan"
 venue: 'arXiv e-Print: 2505.16863 [gr-qc]'
 paperurl: 'https://arxiv.org/pdf/2505.16863'
 redirect_to: 'https://arxiv.org/abs/2505.16863'
