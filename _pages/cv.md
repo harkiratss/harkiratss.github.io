@@ -70,55 +70,48 @@ redirect_from:
        BITS Pilani, India
        Talk title: Are accelerated detectors sensitive to Planck scale changes?
 
-2024 • National conference on classical and quantum gravity, <br />
-       CUSAT Cochin, India <br />
+2024 • National conference on classical and quantum gravity, 
+       CUSAT Cochin, India
        Talk title: Quantum cosmology with perfect fluid: ambiguities and their imprints
 
-2023 • Time and clocks, WE-Heraeus-Seminar, <br />
-       Physikzentrum Bad Honnef, Germany <br />
+2023 • Time and clocks, WE-Heraeus-Seminar, 
+       Physikzentrum Bad Honnef, Germany
        Poster title :- Quantum cosmology with fluid clock: Implications for the dressed metric-
                        like approaches
 
      • 10th International Conference on Gravitation and Cosmology (ICGC 2023), IIT Guwahati, India <br />
        Talk title :- Analyzing quantum gravity spillover in the semiclassical regime
 
-     • Workshop on “Observables in Quantum Gravity”, IISER Mohali, India <br />
+     • Workshop on “Observables in Quantum Gravity”, IISER Mohali, India
        Talk title :- Signatures of quantum gravity with perfect fluid
 
-2021 • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
-       ICRA, Italy <br />
-       Session :- Loop Quantum Gravity: Cosmology and Black Holes <br />
+2021 • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021),
+       ICRA, Italy 
+       Session :- Loop Quantum Gravity: Cosmology and Black Holes
        Talk title :- Infrared signatures of quantum bounce in collapsing geometry 
        
-     • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
-       ICRA, Italy <br />
-       Session :- Extended Theories of Gravity and Quantum Cosmology <br />
+     • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), 
+       ICRA, Italy 
+       Session :- Extended Theories of Gravity and Quantum Cosmology 
        Talk title :- Operator Ordering Ambiguity in Observables of Quantum Cosmology
 
 2020 • 31st meeting (Online) of the Indian Association for General Relativity and Gravitation
-       (IAGRG 2020), <br />
-       IIT Gandhinagar, India <br />
+       (IAGRG 2020),
+       IIT Gandhinagar, India 
        Talk title :- Infrared signature of quantum bounce in collapsing geometry
   
 <strong>Teaching Assistance</strong>
 ======
 2024-25 NPTEL noc25-ph10 (Foundations of quantum theory: Relativistic approach)
-
 2022-23 PHY111: Physics Lab mechanics (Fall), PHY663: Relativistic cosmology (Spring)
-
 2021-22 PHY 201 Waves and Optics (Fall)
-
 2020-21 PHY301: Classical mechanics (Fall), PHY306: Advanced quantum mechanics (Spring)
-
 2019-20 PHY111: Physics Lab mechanics (Fall), IDC 102: Hands-on electronics (Spring)
-
 2018-19 IDC 102: Hands-on electronics (Spring)
 
 <strong>Skills</strong>
 ======
 * Programming Languages: Mathematica, C/C++, Python, Julia
-
 * Operating systems: GNU/Linux, Windows
-
 * Typesetting Software: LATEX
  </pre>
