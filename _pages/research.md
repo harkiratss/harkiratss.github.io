@@ -9,18 +9,24 @@ author_profile: true
  <pre>
 <strong>Quantum Fields in Curved Spacetime</strong>
 ======
-      - Unruh-DeWitt detector response in Rindler spacetime
+      - Unruh-DeWitt detector response in Rindler spacetime 
       - Quantum fields in collapsing geometry
-      - Quantum perturbations on the quantum-corrected universe
+      - Unruh-Hawking effect and information paradox
+      - Quantum perturbations on the quantum-corrected universe: implications for CMB physics
+
+<strong>Quantum Information in Curved Spacetime</strong>
+======
       - Effects of curvature on the entanglement of collective operators
-      - Entanglement and decoherence aspects of atoms in non-inertial motion inside a cavity:
+      - Entanglement and decoherence aspects of atoms in non-inertial motion inside a cavity
 
 <strong>Canonical Quantum Gravity</strong>
 ======
-      - Quantum Cosmology:
-      - Dust Collapse in LTB Model:
-      - Time in Quantum theories of gravity:
-      - Observables in Classical and Quantum Gravity:
+      - Quantum Cosmology
+      - Dust Collapse in LTB Model
+      - Quantization of Brans-Dicke cosmology
+      - Time in Quantum theories of gravity
+      - Observables in Classical and Quantum Gravity
+      - Quantum AdS black holes
 
 
 <strong style="font-size: 1.5rem; font-weight: bold;">Collaborators</strong>
