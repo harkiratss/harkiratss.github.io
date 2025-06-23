@@ -79,10 +79,10 @@ redirect_from:
        Poster title :- Quantum cosmology with fluid clock: Implications for the dressed metric-
                        like approaches
 
-     • 10th International Conference on Gravitation and Cosmology (ICGC 2023), IIT Guwahati, India <br />
+2023 • 10th International Conference on Gravitation and Cosmology (ICGC 2023), IIT Guwahati, India <br />
        Talk title :- Analyzing quantum gravity spillover in the semiclassical regime
 
-     • Workshop on “Observables in Quantum Gravity”, IISER Mohali, India <br />
+2023 • Workshop on “Observables in Quantum Gravity”, IISER Mohali, India <br />
        Talk title :- Signatures of quantum gravity with perfect fluid
 
 2021 • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
@@ -90,7 +90,7 @@ redirect_from:
        Session :- Loop Quantum Gravity: Cosmology and Black Holes <br />
        Talk title :- Infrared signatures of quantum bounce in collapsing geometry 
        
-     • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
+2021 • 16th Marcel Grossmann Meeting - MG16 (Virtual Meeting - July 2021), <br />
        ICRA, Italy <br />
        Session :- Extended Theories of Gravity and Quantum Cosmology <br />
        Talk title :- Operator Ordering Ambiguity in Observables of Quantum Cosmology
