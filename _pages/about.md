@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical physicist working at the Indian Institute of Technology Delhi as a research associate. My research focusses on everything quantum and gravity. 
+I am a theoretical physicist currently working as a Research Associate at the Indian Institute of Technology Delhi. My research lies at the intersection of quantum theory and gravitation, exploring fundamental questions that arise when these two pillars of modern physics meet.
 
-Here are a few snippnets from my works. The first figure contain the probability distribution and the expectation value of the volume of universe for a semiclassical wave packet for positive cosmological constant. The second figure is for the case of a negative cosmological constant. The last figure shows the quantum correlation of a test quantum field in the background spacetime undergoing critical collapse at the end of the simulation.
-
+Below are a few visual excerpts from my recent works.
+The first figure shows the quantum dynamics of the FLRW universe with dust and a positive cosmological constant. The universe undergoes quantum bounce as depicted by probability distribution, the expectation value and quantum uncertainty of the volume of universe for a wave packet.
+The second figure depicts the corresponding results for a negative cosmological constant, highlighting the contrasting dynamics where the quantum universe undergoing cyclic evolution.
+Finally, the third figure captures quantum correlations of a test field propagating in a spacetime undergoing critical gravitational collapse, taken from the endpoint of a numerical simulation.
 <table>
   <tr>
     <td><img src="/images/QC1.png" width="600"/></td>
