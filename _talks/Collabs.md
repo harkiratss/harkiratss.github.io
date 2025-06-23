@@ -1,4 +1,6 @@
-<hr />
+---
+collection: talks
+---
 
 ## Collaborators
 
