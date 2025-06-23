@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 {% include base_path %}
- <pre>
-## <strong>Quantum Fields in Curved Spacetime</strong>
+ <pre style="font-size: 2rem; font-weight: bold; font-family: inherit;">
+<strong>Quantum Fields in Curved Spacetime</strong>
 ======
-      - Unruh-DeWitt detector response in Rindler spacetime:
-      - Quantum fields in collapsing geometry:
-      - Quantum perturbations on the quantum-corrected universe:
-      - Effects of curvature on the entanglement of collective operators:
+      - Unruh-DeWitt detector response in Rindler spacetime
+      - Quantum fields in collapsing geometry
+      - Quantum perturbations on the quantum-corrected universe
+      - Effects of curvature on the entanglement of collective operators
+      - Entanglement and decoherence aspects of atoms in non-inertial motion inside a cavity:
 
-Entanglement and decoherence aspects of atoms in non-inertial motion inside a cavity:
-## <strong>Canonical Quantum Gravity</strong>
+<strong>Canonical Quantum Gravity</strong>
 ======
       - Quantum Cosmology:
       - Dust Collapse in LTB Model:
@@ -23,7 +23,7 @@ Entanglement and decoherence aspects of atoms in non-inertial motion inside a ca
       - Observables in Classical and Quantum Gravity:
 
 
-## <strong>Collaborators</strong>
+<strong style="font-size: 2rem; font-weight: bold;">Collaborators</strong>
 ======
       - <a href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
       - <a href="https://supritsinghlab.github.io">Suprit Singh</a>
