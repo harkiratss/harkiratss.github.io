@@ -2,7 +2,7 @@
 title: "Imprints of the operator ordering ambiguity on the dynamics of perfect fluid dominated quantum Universe"
 collection: publications
 category: manuscripts
-permalink: /publications/quantum-universe/
+permalink: /publications/CQG_QC_2024/
 excerpt: 'Sharply peaked quantum states are conjectured to be conducive to the notion of a quantum-corrected spacetime. We investigate this conjecture for a flat-FLRW model with perfect fluid, where a generalized ordering scheme is considered for the gravitational Hamiltonian. We study the implications of different ordering choices on the dynamics of the quantum Universe. We demonstrate that the imprints of the operator ordering ambiguity are minimal, and quantum fluctuations are small in the case of sharply peaked states, leading to a consistent notion of a quantum-corrected spacetime defined via the expectation value of the scale factor. Surprisingly, the ordering imprints survive far away from the singularity through the quantum fluctuations in the quantum-corrected spacetime for broadly peaked states.'
 date: Jul 29, 2024
 venue: 'Class.Quant.Grav. 41 (2024) 17, 175006'
