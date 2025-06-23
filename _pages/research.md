@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
- <pre style="font-size: 2rem; font-weight: bold; font-family: inherit;">
+ <pre>
 <strong>Quantum Fields in Curved Spacetime</strong>
 ======
       - Unruh-DeWitt detector response in Rindler spacetime
