@@ -2,7 +2,7 @@
 title: "Analyzing quantum gravity spillover in the semiclassical regime"
 collection: publications
 category: manuscripts
-permalink: /publications/QC_BK_UM_SC
+permalink: /publications/EPJC_QC_2023/
 excerpt: 'We investigate the viability of an effective quantum-corrected spacetime defined by expectation value of the metric variables in quantum cosmology. For this effective geometry, we ask; how the ordering choice affects this notion, what are the quantum fluctuations in this {\it quantum geometry}, and whether its observables have any correspondence with the true {\it quantum observables}. Surprisingly, we find that the ordering choices not only affect physics near singularity but creep well into the classical regime.'
 date: Dec 20, 2023
 venue: 'Eur.Phys.J.C 83 (2023) 12, 1162'
