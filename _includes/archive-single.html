@@ -48,7 +48,7 @@
 
     {% if post.excerpt and site.read_more != 'enabled' %}
   <details class="archive__item-excerpt">
-    <summary><strong>Abstract</strong></summary>
+    <summary><strong>Summary</strong></summary>
     <div itemprop="description">
       {{ post.excerpt | markdownify }}
     </div>
@@ -56,7 +56,7 @@
 
     {% elsif post.excerpt and site.read_more == 'enabled' %}
       <details class="archive__item-excerpt">
-        <summary><strong>Abstract</strong></summary>
+        <summary><strong>Summary</strong></summary>
         <div itemprop="description">
           {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
           <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
