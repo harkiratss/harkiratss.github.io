@@ -88,38 +88,39 @@ Here’s a glimpse into some of my recent research highlights.
 
 <div class="slideshow-container" id="slideshow">
 
-  <div class="slide" style="display: flex;">
-    <div class="slide-images">
-      <img src="/images/QC1.png" alt="QC1" />
-      <img src="/images/QC2.png" alt="QC2" />
-    </div>
-    <div class="caption">
-      Quantum dynamics with a positive cosmological constant. Top: broader Λ-distribution, Bottom: sharper.
-    </div>
-  </div>
-
-  <div class="slide">
-    <div class="slide-images">
-      <img src="/images/QC3.png" alt="QC3" />
-      <img src="/images/QC4.png" alt="QC4" />
-    </div>
-    <div class="caption">
-      Negative Λ dynamics showing cyclic evolution. Top: coherent, Bottom: sharper Gaussian wave packet.
-    </div>
-  </div>
-
   <div class="slide">
     <div class="slide-images">
       <img src="/images/contour_plot_A=5.0.png" alt="Field Correlation" />
       <img src="/images/contour_plot_A=5.0_m.png" alt="Momentum Correlation" />
     </div>
     <div class="caption">
-      Quantum correlations during gravitational collapse. Field vs momentum correlations.
+      Quantum correlations of a test field propagating in a spacetime undergoing critical collapse, evaluated at the end of the numerical simulation. Dashed black lines = areal radius of apparent horizon, red dashed lines = location of apparent horizon. Top: field correlation, Bottom: momentum correlation.
     </div>
   </div>
+  
+  <div class="slide" style="display: flex;">
+    <div class="slide-images">
+      <img src="/images/QC1.png" alt="QC1" />
+      <img src="/images/QC2.png" alt="QC2" />
+    </div>
+    <div class="caption">
+      The quantum dynamics of the FLRW universe with dust and a positive cosmological constant depicting quantum. Heatmap shows the probability distribution associated with the wave packet; solid black curve = expectation value of volume, dotted = classical trajectory, dashed = uncertainty region. Top: broader Λ-distribution, Bottom: sharper Λ-distribution.
+    </div>
+  </div>
+  
+<!-- This section describes my research projects in quantum gravity -->
+<!--  <div class="slide"> -->
+<!--    <div class="slide-images"> -->
+<!--      <img src="/images/QC3.png" alt="QC3" /> -->
+<!--      <img src="/images/QC4.png" alt="QC4" /> -->
+<!--    </div> -->
+<!--    <div class="caption"> -->
+<!--      Negative Λ dynamics showing cyclic evolution. Top: coherent, Bottom: sharper Gaussian wave packet. -->
+<!--    </div> -->
+<!--  </div> -->
 
-  <a class="prev" onclick="plusSlides(-1)">❮ Prev</a>
-  <a class="next" onclick="plusSlides(1)">Next ❯</a>
+  <a class="prev" onclick="plusSlides(-1)">❮ </a>
+  <a class="next" onclick="plusSlides(1)"> ❯</a>
 
   <div class="dots">
     <span class="dot" onclick="currentSlide(0)"></span>
