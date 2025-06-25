@@ -34,7 +34,7 @@ Here’s a glimpse into some of my recent research highlights.
 }
 
 .slide-images img {
-  width: 48%;
+  width: 40%;
   border-radius: 6px;
 }
 
@@ -125,7 +125,6 @@ Here’s a glimpse into some of my recent research highlights.
   <div class="dots">
     <span class="dot" onclick="currentSlide(0)"></span>
     <span class="dot" onclick="currentSlide(1)"></span>
-    <span class="dot" onclick="currentSlide(2)"></span>
   </div>
 </div>
 
