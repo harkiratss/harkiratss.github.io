@@ -27,8 +27,6 @@ author_profile: true
       - Time in Quantum theories of gravity
       - Observables in Classical and Quantum Gravity
       - Quantum AdS black holes
-
-
 <!-- <strong style="font-size: 1.5rem; font-weight: bold;">Collaborators</strong>
 
       - <a href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
@@ -39,8 +37,7 @@ author_profile: true
       - <a href="https://in.linkedin.com/in/ashish-pandita-7850a21b2">Ashish Pandita</a>
       - <a href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a> -->
  </pre>
-
-<h2 style="margin-top: 2rem;">Collaborators</h2>
+<h2 style="margin-top: 4rem;">Collaborators</h2>
 
 <style>
 .collab-grid {
