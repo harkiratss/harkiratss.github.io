@@ -115,7 +115,7 @@ Here’s a glimpse into some of my recent research highlights.
 <!--      <img src="/images/QC4.png" alt="QC4" /> -->
 <!--    </div> -->
 <!--    <div class="caption"> -->
-<!--      Negative Λ dynamics showing cyclic evolution. Top: coherent, Bottom: sharper Gaussian wave packet. -->
+<!--            The quantum dynamics of the FLRW universe with dust and a negative cosmological constant showing cyclic evolution. Heatmap shows the probability distribution associated with the wave packet; solid black curve = expectation value of volume, dotted = classical trajectory, dashed = uncertainty region. Top: coherent wave packet, Bottom: Gaussian wave packet with same mean Λ but sharper width. -->
 <!--    </div> -->
 <!--  </div> -->
 
