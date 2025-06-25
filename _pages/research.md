@@ -40,7 +40,7 @@ author_profile: true
       - <a href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a> -->
  </pre>
 
- <h2 style="margin-top: 4rem;">Collaborators</h2>
+<h2 style="margin-top: 2rem;">Collaborators</h2>
 
 <style>
 .collab-grid {
@@ -68,12 +68,14 @@ author_profile: true
   border-radius: 50%;
   margin-bottom: 0.5rem;
 }
-.collab-card a {
+.collab-card .collab-name {
+  display: block;
   font-weight: bold;
   color: #333;
+  margin-top: 0.5rem;
   text-decoration: none;
 }
-.collab-card a:hover {
+.collab-card .collab-name:hover {
   text-decoration: underline;
 }
 </style>
@@ -82,38 +84,39 @@ author_profile: true
 
   <div class="collab-card">
     <img src="https://homepages.iitb.ac.in/~shanki/images/KinjalkLochan.png" alt="Kinjalk Lochan">
-    <a href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
+    <a class="collab-name" href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
   </div>
 
   <div class="collab-card">
     <img src="https://irins.org/assets/profile_images/204008.jpg" alt="Suprit Singh">
-    <a href="https://supritsinghlab.github.io">Suprit Singh</a>
+    <a class="collab-name" href="https://supritsinghlab.github.io">Suprit Singh</a>
   </div>
 
   <div class="collab-card">
     <img src="https://www.phy.iitb.ac.in/sites/www.phy.iitb.ac.in/files/styles/medium/public/employees/shanki-2.jpeg" alt="S. Shankaranarayanan">
-    <a href="https://homepages.iitb.ac.in/~shanki/index.html">S. Shankaranarayanan</a>
+    <a class="collab-name" href="https://homepages.iitb.ac.in/~shanki/index.html">S. Shankaranarayanan</a>
   </div>
 
   <div class="collab-card">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzbqpqfqWQ6Wl15wGGs60ixHlLmDipDWQ5A&s" alt="Dipayan Mukherjee">
-    <a href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">Dipayan Mukherjee</a>
+    <a class="collab-name" href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">Dipayan Mukherjee</a>
   </div>
-<!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZ-p08rlUzMn-w9d2QTu_qiJLjP8Dh6acSg&s -->
+
   <div class="collab-card">
     <img src="https://i.pinimg.com/280x280_RS/05/ac/11/05ac11caacac8bea9abeffde308850da.jpg" alt="Vikramaditya Mondal">
-    <a href="https://scholar.google.com/citations?hl=en&user=rb0NaaMAAAAJ">Vikramaditya Mondal</a>
+    <a class="collab-name" href="https://scholar.google.com/citations?hl=en&user=rb0NaaMAAAAJ">Vikramaditya Mondal</a>
   </div>
 
   <div class="collab-card">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0Lkf0Oz5-HUKJyCHEtqR4guhJz8Wyhbqjg&s" alt="Ashish Pandita">
-    <a href="https://in.linkedin.com/in/ashish-pandita-7850a21b2">Ashish Pandita</a>
+    <a class="collab-name" href="https://in.linkedin.com/in/ashish-pandita-7850a21b2">Ashish Pandita</a>
   </div>
 
   <div class="collab-card">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUl6EKTk5EoYoFQ_2mNUOiMn2LOjB_Ik9Mhw&s" alt="Shagun Kaushal">
-    <a href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a>
+    <a class="collab-name" href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a>
   </div>
 
 </div>
+
 
