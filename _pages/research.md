@@ -95,7 +95,7 @@ author_profile: true
   </div>
 
   <div class="collab-card">
-    <img src="/images/research_cards/dips.jpg" alt="Dipayan Mukherjee">
+    <img src="/images/research_cards/dips.jpeg" alt="Dipayan Mukherjee">
     <a class="collab-name" href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">Dipayan Mukherjee</a>
   </div>
 
@@ -110,7 +110,7 @@ author_profile: true
   </div>
 
   <div class="collab-card">
-    <img src="kaushal.jpg" alt="Shagun Kaushal">
+    <img src="/images/research_cards/kaushal.jpeg" alt="Shagun Kaushal">
     <a class="collab-name" href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a>
   </div>
 
