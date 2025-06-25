@@ -17,7 +17,7 @@ author_profile: true
 <strong>Quantum Information in Curved Spacetime</strong>
 ====
     - Effects of curvature on the entanglement of collective operators
-    - Entanglement and decoherence aspects of atoms in non-inertial motion inside a cavity
+    - Entanglement and decoherence aspects of atoms in curved spacetime
 
 <strong>Canonical Quantum Gravity</strong>
 ====
