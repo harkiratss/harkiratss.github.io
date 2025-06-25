@@ -52,7 +52,7 @@ a{% include base_path %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
   <details class="archive__item-excerpt">
-    <summary><strong></strong></summary>
+<!--     <summary><strong>Summary</strong></summary> -->
     <div itemprop="description">
       {{ post.excerpt | markdownify }}
     </div>
@@ -60,7 +60,7 @@ a{% include base_path %}
 
     {% elsif post.excerpt and site.read_more == 'enabled' %}
       <details class="archive__item-excerpt">
-        <summary><strong></strong></summary>
+<!--         <summary><strong>Summary</strong></summary> -->
         <div itemprop="description">
           {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
           <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
