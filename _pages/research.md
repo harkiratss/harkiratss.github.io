@@ -81,37 +81,37 @@ author_profile: true
 <div class="collab-grid">
 
   <div class="collab-card">
-    <img src="https://homepages.iitb.ac.in/~shanki/images/KinjalkLochan.png" alt="Kinjalk Lochan">
+    <img src="https://www.iisermohali.ac.in/images/siteimages/people/faculty/kinjalk.jpg" alt="Kinjalk Lochan">
     <a href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
   </div>
 
   <div class="collab-card">
-    <img src="/images/collab/suprit.jpg" alt="Suprit Singh">
+    <img src="https://irins.org/assets/profile_images/204008.jpg" alt="Suprit Singh">
     <a href="https://supritsinghlab.github.io">Suprit Singh</a>
   </div>
 
   <div class="collab-card">
-    <img src="/images/collab/shanki.jpg" alt="S. Shankaranarayanan">
+    <img src="https://www.phy.iitb.ac.in/sites/www.phy.iitb.ac.in/files/styles/medium/public/employees/shanki-2.jpeg" alt="S. Shankaranarayanan">
     <a href="https://homepages.iitb.ac.in/~shanki/index.html">S. Shankaranarayanan</a>
   </div>
 
   <div class="collab-card">
-    <img src="/images/collab/dipayan.jpg" alt="Dipayan Mukherjee">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzbqpqfqWQ6Wl15wGGs60ixHlLmDipDWQ5A&s" alt="Dipayan Mukherjee">
     <a href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">Dipayan Mukherjee</a>
   </div>
-
+<!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZ-p08rlUzMn-w9d2QTu_qiJLjP8Dh6acSg&s -->
   <div class="collab-card">
-    <img src="/images/collab/vikram.jpg" alt="Vikramaditya Mondal">
+    <img src="encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVQO2l8ZEK8wvZvX1rjCo0QFdA59gewk3Xw&s" alt="Vikramaditya Mondal">
     <a href="https://scholar.google.com/citations?hl=en&user=rb0NaaMAAAAJ">Vikramaditya Mondal</a>
   </div>
 
   <div class="collab-card">
-    <img src="/images/collab/ashish.jpg" alt="Ashish Pandita">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0Lkf0Oz5-HUKJyCHEtqR4guhJz8Wyhbqjg&s" alt="Ashish Pandita">
     <a href="https://in.linkedin.com/in/ashish-pandita-7850a21b2">Ashish Pandita</a>
   </div>
 
   <div class="collab-card">
-    <img src="/images/collab/shagun.jpg" alt="Shagun Kaushal">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUl6EKTk5EoYoFQ_2mNUOiMn2LOjB_Ik9Mhw&s" alt="Shagun Kaushal">
     <a href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a>
   </div>
 
