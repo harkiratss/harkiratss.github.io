@@ -24,7 +24,8 @@ Here’s a glimpse into some of my recent research highlights.
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: auto;  /* ✅ add this line to center the slide */
+  margin: auto;
+  text-align: center;  /* Optional: helps with captions */
 }
 
 .slide-images {
@@ -43,7 +44,7 @@ Here’s a glimpse into some of my recent research highlights.
   font-style: italic;
   margin-top: 0.5rem;
   text-align: center;
-  font-size: 0.95rem;
+  font-size: 0.95rem; 
   max-width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -84,6 +85,16 @@ Here’s a glimpse into some of my recent research highlights.
 }
 .dot.active {
   background-color: #333;
+}
+
+@media screen and (max-width: 600px) {
+  .caption {
+    font-size: 0.8rem; /* or 0.75rem for smaller phones */
+  }
+
+  .slide-images img {
+    width: 90%;  /* optionally adjust image width on mobile too */
+  }
 }
 </style>
 
