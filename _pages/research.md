@@ -101,7 +101,7 @@ author_profile: true
   </div>
 <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZ-p08rlUzMn-w9d2QTu_qiJLjP8Dh6acSg&s -->
   <div class="collab-card">
-    <img src="https://i1.rgstatic.net/ii/profile.image/1034568912084993-1623671858583_Q512/Vikramaditya-Mondal.jpg" alt="Vikramaditya Mondal">
+    <img src="https://i.pinimg.com/280x280_RS/05/ac/11/05ac11caacac8bea9abeffde308850da.jpg" alt="Vikramaditya Mondal">
     <a href="https://scholar.google.com/citations?hl=en&user=rb0NaaMAAAAJ">Vikramaditya Mondal</a>
   </div>
 
