@@ -35,7 +35,7 @@ Here’s a glimpse into some of my recent research highlights.
 }
 
 .slide-images img {
-  width: 40%;
+  width: 45%;
   border-radius: 6px;
 }
 
