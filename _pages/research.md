@@ -85,7 +85,7 @@ author_profile: true
   </div>
 
   <div class="collab-card">
-    <img src="/images/research_cards/suprit.jpg" alt="Suprit Singh">
+    <img src="/images/research_cards/suprit.jpeg" alt="Suprit Singh">
     <a class="collab-name" href="https://supritsinghlab.github.io">Suprit Singh</a>
   </div>
 
