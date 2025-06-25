@@ -80,7 +80,7 @@ author_profile: true
 <div class="collab-grid">
 
   <div class="collab-card">
-    <img src="/images/research_cards/lochan.jpg" alt="Kinjalk Lochan">
+    <img src="/images/research_cards/lochan.jpeg" alt="Kinjalk Lochan">
     <a class="collab-name" href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
   </div>
 
