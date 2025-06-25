@@ -17,23 +17,31 @@ Here’s a glimpse into some of my recent research highlights.
   position: relative;
   max-width: 100%;
   margin: 2rem auto;
-  text-align: center;
 }
 
 .slide {
   display: none;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
-.slide img {
+.slide-images {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.slide-images img {
   width: 48%;
-  margin: 1%;
-  vertical-align: top;
   border-radius: 6px;
 }
 
 .caption {
   font-style: italic;
   margin-top: 0.5rem;
+  text-align: center;
   font-size: 0.95rem;
   max-width: 90%;
   margin-left: auto;
@@ -48,20 +56,16 @@ Here’s a glimpse into some of my recent research highlights.
   color: black;
   font-weight: bold;
   font-size: 18px;
-  background: #eee;
+  background: rgba(240,240,240,0.8);
   border-radius: 4px;
   user-select: none;
-  transition: background 0.3s;
+  z-index: 2;
 }
 .prev:hover, .next:hover {
   background: #ccc;
 }
-.prev {
-  left: 0;
-}
-.next {
-  right: 0;
-}
+.prev { left: 0; }
+.next { right: 0; }
 
 .dots {
   text-align: center;
@@ -85,27 +89,33 @@ Here’s a glimpse into some of my recent research highlights.
 <div class="slideshow-container" id="slideshow">
 
   <div class="slide" style="display: flex;">
-    <img src="/images/QC1.png" alt="QC1" />
-    <img src="/images/QC2.png" alt="QC2" />
+    <div class="slide-images">
+      <img src="/images/QC1.png" alt="QC1" />
+      <img src="/images/QC2.png" alt="QC2" />
+    </div>
     <div class="caption">
-      The quantum dynamics of the FLRW universe with dust and a positive cosmological constant depicting quantum. Heatmap shows the probability distribution associated with the wave packet; solid black curve = expectation value of volume, dotted = classical trajectory, dashed = uncertainty region. Top: broader Λ-distribution, Bottom: sharper Λ-distribution.
+      Quantum dynamics with a positive cosmological constant. Top: broader Λ-distribution, Bottom: sharper.
     </div>
   </div>
 
   <div class="slide">
-    <img src="/images/QC3.png" alt="QC3" />
-    <img src="/images/QC4.png" alt="QC4" />
+    <div class="slide-images">
+      <img src="/images/QC3.png" alt="QC3" />
+      <img src="/images/QC4.png" alt="QC4" />
+    </div>
     <div class="caption">
-      The quantum dynamics of the FLRW universe with dust and a negative cosmological constant showing cyclic evolution. Heatmap shows the probability distribution associated with the wave packet; solid black curve = expectation value of volume, dotted = classical trajectory, dashed = uncertainty region. Top: coherent wave packet, Bottom: Gaussian wave packet with same mean Λ but sharper width.
+      Negative Λ dynamics showing cyclic evolution. Top: coherent, Bottom: sharper Gaussian wave packet.
     </div>
   </div>
 
   <div class="slide">
-    <img src="/images/contour_plot_A=5.0.png" alt="Field Correlation" />
-    <img src="/images/contour_plot_A=5.0_m.png" alt="Momentum Correlation" />
+    <div class="slide-images">
+      <img src="/images/contour_plot_A=5.0.png" alt="Field Correlation" />
+      <img src="/images/contour_plot_A=5.0_m.png" alt="Momentum Correlation" />
+    </div>
     <div class="caption">
-      Quantum correlations of a test field propagating in a spacetime undergoing critical collapse, evaluated at the end of the numerical simulation. Dashed black lines = areal radius of apparent horizon, red dashed lines = location of apparent horizon. Top: field correlation, Bottom: momentum correlation.
-
+      Quantum correlations during gravitational collapse. Field vs momentum correlations.
+    </div>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮ Prev</a>
@@ -120,9 +130,9 @@ Here’s a glimpse into some of my recent research highlights.
 
 <script>
 let slideIndex = 0;
-let slides = document.querySelectorAll(".slide");
-let dots = document.querySelectorAll(".dot");
-let slideshow = document.getElementById("slideshow");
+const slides = document.querySelectorAll(".slide");
+const dots = document.querySelectorAll(".dot");
+const slideshow = document.getElementById("slideshow");
 let timer = null;
 
 function showSlide(n) {
@@ -157,7 +167,6 @@ function pauseAutoSlide() {
 slideshow.addEventListener("mouseenter", pauseAutoSlide);
 slideshow.addEventListener("mouseleave", startAutoSlide);
 
-// Init
 showSlide(slideIndex);
 startAutoSlide();
 </script>
