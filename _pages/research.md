@@ -80,37 +80,37 @@ author_profile: true
 <div class="collab-grid">
 
   <div class="collab-card">
-    <img src="/images/research/lochan.jpg" alt="Kinjalk Lochan">
+    <img src="/images/research_cards/lochan.jpg" alt="Kinjalk Lochan">
     <a class="collab-name" href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
   </div>
 
   <div class="collab-card">
-    <img src="https://irins.org/assets/profile_images/204008.jpg" alt="Suprit Singh">
+    <img src="/images/research_cards/suprit.jpg" alt="Suprit Singh">
     <a class="collab-name" href="https://supritsinghlab.github.io">Suprit Singh</a>
   </div>
 
   <div class="collab-card">
-    <img src="https://www.phy.iitb.ac.in/sites/www.phy.iitb.ac.in/files/styles/medium/public/employees/shanki-2.jpeg" alt="S. Shankaranarayanan">
+    <img src="/images/research_cards/shankarnarayanan.jpg">
     <a class="collab-name" href="https://homepages.iitb.ac.in/~shanki/index.html">S. Shankaranarayanan</a>
   </div>
 
   <div class="collab-card">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzbqpqfqWQ6Wl15wGGs60ixHlLmDipDWQ5A&s" alt="Dipayan Mukherjee">
+    <img src="/images/research_cards/dips.jpg" alt="Dipayan Mukherjee">
     <a class="collab-name" href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">Dipayan Mukherjee</a>
   </div>
 
   <div class="collab-card">
-    <img src="https://i.pinimg.com/280x280_RS/05/ac/11/05ac11caacac8bea9abeffde308850da.jpg" alt="Vikramaditya Mondal">
+    <img src="/images/research_cards/mondal.jpg">
     <a class="collab-name" href="https://scholar.google.com/citations?hl=en&user=rb0NaaMAAAAJ">Vikramaditya Mondal</a>
   </div>
 
   <div class="collab-card">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH0Lkf0Oz5-HUKJyCHEtqR4guhJz8Wyhbqjg&s" alt="Ashish Pandita">
+    <img src="/images/research_cards/pandita.jpg" alt="Ashish Pandita">
     <a class="collab-name" href="https://in.linkedin.com/in/ashish-pandita-7850a21b2">Ashish Pandita</a>
   </div>
 
   <div class="collab-card">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUl6EKTk5EoYoFQ_2mNUOiMn2LOjB_Ik9Mhw&s" alt="Shagun Kaushal">
+    <img src="kaushal.jpg" alt="Shagun Kaushal">
     <a class="collab-name" href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a>
   </div>
 
