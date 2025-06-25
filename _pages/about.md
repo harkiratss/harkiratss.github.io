@@ -9,16 +9,67 @@ redirect_from:
 
 I am a theoretical physicist currently working as a Research Associate at the Indian Institute of Technology Delhi. My research lies at the intersection of quantum theory and gravitation, exploring fundamental questions that arise when these two pillars of modern physics meet.
 
-Below are a few visual excerpts from my recent works.
-<tr>
-    <td><img src="/images/QC1.png" width="600"/></td> <td><img src="/images/QC2.png" width="600"/></td>
-</tr>
-The quantum dynamics of the FLRW universe with dust and a positive cosmological constant. The universe undergoes a quantum bounce, captured through the probability distribution, expectation value, and quantum uncertainty of the volume, evaluated for a unitarily evolving wave packet. In the figure, the heatmap represents the probability distribution associated with the wave packet. The solid black curve shows the expectation value of the volume, the dotted black curves indicate the classical trajectory, and the gray dashed lines mark the region of quantum uncertainty. The top image shows the case of a broader Λ-distribution while bottom shows a sharper Λ-distribution.
-<tr>
-    <td><img src="/images/QC3.png" width="600"/></td> <td><img src="/images/QC4.png" width="600"/></td>
-</tr>
-The corresponding results for a negative cosmological constant, highlighting the contrasting dynamics where the quantum universe undergoes cyclic evolution in this case. In the figure, the heatmap represents the probability distribution associated with the wave packet. The solid black curve shows the expectation value of the volume, the dotted black curves indicate the classical trajectory, and the gray dashed lines mark the region of quantum uncertainty. The top image shows the case of a coherent wave packet while the bottom image shows a Gaussian wave packet, and the mean of Λ-distribution is same for the two cases while the width for Gaussian wave packet is sharper.
-<tr>
-    <td><img src="/images/contour_plot_A=5.0.png" width="600"/></td> <td><img src="/images/contour_plot_A=5.0_m.png" width="600"/></td>
-</tr>
-Quantum correlations of a test field propagating in a spacetime undergoing critical collapse, evaluated at the end of the numerical simulation. The black dashed lines mark the areal radius of apparent horizon and dashed red lines mark the location of apparent horizon. The top image shows field correlation while the bottom image shows momentum correlations.
+Here’s a glimpse into some of my recent research highlights.
+
+<!-- Slideshow CSS -->
+<style>
+.slideshow {
+  max-width: 100%;
+  margin: 2rem auto;
+  position: relative;
+}
+.slide {
+  display: none;
+}
+.slide img {
+  width: 48%;
+  margin: 0 1%;
+  vertical-align: top;
+}
+.caption {
+  font-style: italic;
+  margin-top: 0.5rem;
+  text-align: center;
+  font-size: 0.95rem;
+}
+</style>
+
+<!-- Slideshow HTML -->
+<div class="slideshow">
+  <div class="slide" style="display:block;">
+    <img src="/images/QC1.png" />
+    <img src="/images/QC2.png" />
+    <div class="caption">
+      The quantum dynamics of the FLRW universe with dust and a positive cosmological constant depicting quantum. Heatmap shows the probability distribution associated with the wave packet; solid black curve = expectation value of volume, dotted = classical trajectory, dashed = uncertainty region. Top: broader Λ-distribution, Bottom: sharper Λ-distribution.
+    </div>
+  </div>
+
+  <div class="slide">
+    <img src="/images/QC3.png" />
+    <img src="/images/QC4.png" />
+    <div class="caption">
+      Results for a negative cosmological constant showing cyclic evolution. Heatmap shows the probability distribution associated with the wave packet; solid black curve = expectation value of volume, dotted = classical trajectory, dashed = uncertainty region. Top: coherent wave packet, Bottom: Gaussian wave packet with same mean Λ but sharper width.
+    </div>
+  </div>
+
+  <div class="slide">
+    <img src="/images/contour_plot_A=5.0.png" />
+    <img src="/images/contour_plot_A=5.0_m.png" />
+    <div class="caption">
+      Quantum correlations of a test field propagating in a spacetime undergoing critical collapse, evaluated at the end of the numerical simulation. Dashed black lines = areal radius of apparent horizon, red dashed lines = location of apparent horizon. Top: field correlation, Bottom: momentum correlation.
+    </div>
+  </div>
+</div>
+
+<!-- JavaScript for slideshow -->
+<script>
+let slideIndex = 0;
+const slides = document.querySelectorAll(".slide");
+
+function showSlides() {
+  slides.forEach(s => s.style.display = "none");
+  slideIndex = (slideIndex + 1) % slides.length;
+  slides[slideIndex].style.display = "block";
+}
+setInterval(showSlides, 5000); // 5 seconds per slide
+</script>
