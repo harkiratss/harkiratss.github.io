@@ -24,6 +24,7 @@ Here’s a glimpse into some of my recent research highlights.
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin: auto;  /* ✅ add this line to center the slide */
 }
 
 .slide-images {
