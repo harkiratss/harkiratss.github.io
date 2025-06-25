@@ -40,7 +40,7 @@ author_profile: true
       - <a href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a> -->
  </pre>
 
- <h2 style="margin-top: 2rem;">Collaborators</h2>
+ <h2 style="margin-top: 4rem;">Collaborators</h2>
 
 <style>
 .collab-grid {
