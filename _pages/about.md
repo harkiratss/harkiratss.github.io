@@ -19,7 +19,7 @@ Here’s a glimpse into some of my recent research highlights.
   margin: 2rem auto;
 }
 
-.slide {
+.slideshow-container .slide {
   display: none;
   justify-content: center;
   align-items: center;
@@ -28,19 +28,19 @@ Here’s a glimpse into some of my recent research highlights.
   text-align: center;  /* Optional: helps with captions */
 }
 
-.slide-images {
+.slideshow-container .slide-images {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   gap: 10px;
 }
 
-.slide-images img {
+.slideshow-container .slide-images img {
   width: 45%;
   border-radius: 6px;
 }
 
-.caption {
+.slideshow-container .caption {
   font-style: italic;
   margin-top: 0.5rem;
   text-align: center;
@@ -50,7 +50,7 @@ Here’s a glimpse into some of my recent research highlights.
   margin-right: auto;
 }
 
-.prev, .next {
+.slideshow-container .prev, .next {
   cursor: pointer;
   position: absolute;
   top: 45%;
@@ -63,17 +63,17 @@ Here’s a glimpse into some of my recent research highlights.
   user-select: none;
   z-index: 2;
 }
-.prev:hover, .next:hover {
+.slideshow-container .prev:hover, .next:hover {
   background: #ccc;
 }
-.prev { left: 0; }
-.next { right: 0; }
+.slideshow-container .prev { left: 0; }
+.slideshow-container .next { right: 0; }
 
-.dots {
+.slideshow-container .dots {
   text-align: center;
   margin-top: 1rem;
 }
-.dot {
+.slideshow-container .dot {
   cursor: pointer;
   height: 12px;
   width: 12px;
@@ -83,7 +83,7 @@ Here’s a glimpse into some of my recent research highlights.
   display: inline-block;
   transition: background-color 0.3s;
 }
-.dot.active {
+.slideshow-container .dot.active {
   background-color: #333;
 }
 
