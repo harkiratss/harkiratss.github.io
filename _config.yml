@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 title                    : "Harkirat Singh Sahota"
 title_separator          : "-"
 name                     : &name "Harkirat Singh Sahota"
@@ -22,7 +22,7 @@ repository               : "harkiratss.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Harkirat Singh Sahota"
-  avatar           : "Sahota_Photograph.jpg"
+  avatar           : "/images/Sahota_Photograph.jpg"
   bio              : "Research Associate at IIT Delhi"
   location         : "New Delhi"
   employer         : "IIT Delhi"
