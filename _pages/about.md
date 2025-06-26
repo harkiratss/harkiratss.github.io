@@ -11,6 +11,8 @@ I am a theoretical physicist currently working as a Research Associate at the In
 
 Here’s a glimpse into some of my recent research highlights.
 
+<!-- BEGIN SLIDESHOW SECTION -->
+<section class="slideshow-wrapper">
 <!-- Slideshow CSS -->
 <style>
 .slideshow-container {
@@ -184,4 +186,6 @@ document.addEventListener("DOMContentLoaded", function () {
   startAutoSlide();
 });
 </script>
+</section>
+<!-- END SLIDESHOW SECTION -->
 
