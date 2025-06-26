@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+remote_theme: "mmistakes/minimal-mistakes"
 title                    : "Harkirat Singh Sahota"
 title_separator          : "-"
 name                     : &name "Harkirat Singh Sahota"
