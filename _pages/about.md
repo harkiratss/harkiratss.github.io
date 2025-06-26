@@ -91,13 +91,14 @@ Here’s a glimpse into some of my recent research highlights.
 
 @media screen and (max-width: 600px) {
   .caption {
-    font-size: 0.8rem; /* or 0.75rem for smaller phones */
+    font-size: 0.8rem !important;
   }
 
   .slide-images img {
-    width: 90%;  /* optionally adjust image width on mobile too */
+    width: 90% !important;
   }
 }
+
 </style>
 
 <div class="slideshow-container" id="slideshow">
