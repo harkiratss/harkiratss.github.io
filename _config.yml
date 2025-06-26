@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "minimal-mistakes-jekyll"
 title                    : "Harkirat Singh Sahota"
 title_separator          : "-"
 name                     : &name "Harkirat Singh Sahota"
