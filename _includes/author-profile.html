@@ -24,13 +24,6 @@
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
-    {% assign author = site.author %}
-    <div style="background: #eef; padding: 1rem; margin: 1rem 0;">
-      <h4>Debug Info</h4>
-      <p>GitHub: {{ author.github }}</p>
-      <p>ORCID: {{ author.orcid }}</p>
-      <p>Google Scholar: {{ author.googlescholar }}</p>
-    </div>
 
     <ul class="author__urls social-icons">
       {% if author.location %}
