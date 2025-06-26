@@ -141,44 +141,47 @@ Here’s a glimpse into some of my recent research highlights.
 </div>
 
 <script>
-let slideIndex = 0;
-const slides = document.querySelectorAll(".slide");
-const dots = document.querySelectorAll(".dot");
-const slideshow = document.getElementById("slideshow");
-let timer = null;
+document.addEventListener("DOMContentLoaded", function () {
+  let slideIndex = 0;
+  const slides = document.querySelectorAll(".slide");
+  const dots = document.querySelectorAll(".dot");
+  const slideshow = document.getElementById("slideshow");
+  let timer = null;
 
-function showSlide(n) {
-  slides.forEach((slide, i) => {
-    slide.style.display = i === n ? "flex" : "none";
-    dots[i].classList.toggle("active", i === n);
-  });
-  slideIndex = n;
-}
+  function showSlide(n) {
+    slides.forEach((slide, i) => {
+      slide.style.display = i === n ? "flex" : "none";
+      dots[i].classList.toggle("active", i === n);
+    });
+    slideIndex = n;
+  }
 
-function plusSlides(n) {
-  slideIndex = (slideIndex + n + slides.length) % slides.length;
+  function plusSlides(n) {
+    slideIndex = (slideIndex + n + slides.length) % slides.length;
+    showSlide(slideIndex);
+  }
+
+  function currentSlide(n) {
+    showSlide(n);
+  }
+
+  function autoSlide() {
+    plusSlides(1);
+  }
+
+  function startAutoSlide() {
+    timer = setInterval(autoSlide, 6000);
+  }
+
+  function pauseAutoSlide() {
+    clearInterval(timer);
+  }
+
+  slideshow.addEventListener("mouseenter", pauseAutoSlide);
+  slideshow.addEventListener("mouseleave", startAutoSlide);
+
   showSlide(slideIndex);
-}
-
-function currentSlide(n) {
-  showSlide(n);
-}
-
-function autoSlide() {
-  plusSlides(1);
-}
-
-function startAutoSlide() {
-  timer = setInterval(autoSlide, 6000);
-}
-
-function pauseAutoSlide() {
-  clearInterval(timer);
-}
-
-slideshow.addEventListener("mouseenter", pauseAutoSlide);
-slideshow.addEventListener("mouseleave", startAutoSlide);
-
-showSlide(slideIndex);
-startAutoSlide();
+  startAutoSlide();
+});
 </script>
+
