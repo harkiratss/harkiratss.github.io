@@ -19,7 +19,12 @@
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
-
+  <h4>Debug Author Links:</h4>
+  <ul>
+    <li>GitHub: {{ author.github }}</li>
+    <li>ORCID: {{ author.orcid }}</li>
+    <li>Scholar: {{ author.googlescholar }}</li>
+  </ul>
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
