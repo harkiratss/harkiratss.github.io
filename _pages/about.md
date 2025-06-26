@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical physicist currently working as a Research Associate at the Indian Institute of Technology Delhi. My research lies at the intersection of quantum theory and gravitation, exploring fundamental questions that arise when these two pillars of modern physics meet.
+I am a theoretical physicist currently working as a Research Associate in the group of Dr. Suprit Singh at the Indian Institute of Technology Delhi. My research lies at the intersection of quantum theory and gravitation, exploring fundamental questions that arise when these two pillars of modern physics meet.
 
 Here’s a glimpse into some of my recent research highlights.
 
