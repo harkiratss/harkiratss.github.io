@@ -6,7 +6,9 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
+{% if include.title_override %}
+  {% assign title = include.title_override %}
+{% elsif post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
