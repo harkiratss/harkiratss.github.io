@@ -10,7 +10,6 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
 {% if site.publication_category %}
   {% for category in site.publication_category %}
     {% assign title_shown = false %}
@@ -24,20 +23,17 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       {% assign counter = counter | plus: 1 %}
-      <div style="margin-bottom: 1em;">
-        <strong>{{ counter }}.</strong>
-        {% include archive-single.html %}
-      </div>
+      {% assign original_title = post.title %}
+      {% assign post_title_with_number = counter | append: ". " | append: post.title %}
+      {% include archive-single.html title_override=post_title_with_number %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% assign counter = 0 %}
   {% for post in site.publications reversed %}
     {% assign counter = counter | plus: 1 %}
-    <div style="margin-bottom: 1em;">
-      <strong>{{ counter }}.</strong>
-      {% include archive-single.html %}
-    </div>
+    {% assign post_title_with_number = counter | append: ". " | append: post.title %}
+    {% include archive-single.html title_override=post_title_with_number %}
   {% endfor %}
 {% endif %}
 
