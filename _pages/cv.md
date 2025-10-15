@@ -20,6 +20,10 @@ redirect_from:
 
 <strong>Work experience</strong>
 ======
+* 2025--Present: Insitute Postdoctoral Fellow
+   * Department of Physics 
+     IIT Madras 
+     Supervisor: Dawood Kothawala 
 * 2024--Present: Research Associate
    * Department of Physics 
      IIT Delhi 
@@ -49,12 +53,11 @@ redirect_from:
 
 <strong>Preprints</strong>
 ======
-[1] Harkirat Singh Sahota, Dipayan Mukherjee, & S. Shankaranarayanan, “An exactly solv-
-    able model of quantum cosmology: the Hydrogen atom analogy with dust and cosmological
-    constant”, arXiv:2505.16863
+[1] Harkirat Singh Sahota, Dipayan Mukherjee, & S. Shankaranarayanan, “An exactly solvable model of quantum cosmology: the Hydrogen atom analogy with dust and cosmological constant”, arXiv:2505.16863
 
-[2] Harkirat Singh Sahota, Suprit Singh, & Ashish Pandita, “Non-local correlations of a
-    test quantum field in gravitational collapse”, arXiv:2505.04701
+[2] Harkirat Singh Sahota, Suprit Singh, & Ashish Pandita, “Non-local correlations of a test quantum field in gravitational collapse”, arXiv:2505.04701
+
+[3] Dipayan Mukherjee, Harkirat Singh Sahota, & Swati Gavas, “A dynamical systems perspective on the thermodynamics of late-time cosmology”, arXiv:2509.04964
 
 <strong>Conference proceedings</strong>
 ======
