@@ -109,7 +109,7 @@ Here’s a glimpse into some of my recent research highlights.
       <img src="/images/contour_plot_A=5.0_m.png" alt="Momentum Correlation" />
     </div>
     <div class="caption">
-      Quantum correlations of a test field propagating in a spacetime undergoing critical collapse, evaluated at the end of the numerical simulation. Dashed black lines = areal radius of apparent horizon, red dashed lines = location of apparent horizon. Top: field correlation, Bottom: momentum correlation.
+      Nonlocal quantum correlations of a test field propagating in a spacetime undergoing critical collapse, evaluated at the end of the numerical simulation. Dashed black lines = areal radius of apparent horizon, red dashed lines = location of apparent horizon. Top: field correlation, Bottom: momentum correlation.
     </div>
   </div>
   
