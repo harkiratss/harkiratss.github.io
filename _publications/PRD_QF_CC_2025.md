@@ -6,8 +6,8 @@ excerpt: "Quantum correlations across the horizon could be pivotal in unveiling 
 permalink: /publication/PRD_QFCC_2025
 date: Nov 7, 2025
 other_authors: "Suprit Singh and Ashish Pandita"
-venue: 'To appear in Phys. Rev. D'
+venue: 'Phys.Rev.D 112 (2025) 12, 124020'
 paperurl: 'https://doi.org/10.1103/f6yv-gzn7'
-redirect_to: 'https://journals.aps.org/prd/accepted/10.1103/f6yv-gzn7'
+redirect_to: 'https://journals.aps.org/prd/abstract/10.1103/f6yv-gzn7'
 ---
 
