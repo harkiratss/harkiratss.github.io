@@ -7,7 +7,7 @@ permalink: /publication/PRD_QFCC_2025
 date: Nov 7, 2025
 other_authors: "Suprit Singh and Ashish Pandita"
 venue: 'Phys.Rev.D 112 (2025) 12, 124020'
-paperurl: 'https://doi.org/10.1103/f6yv-gzn7'
+paperurl: 'https://arxiv.org/pdf/2505.04701'
 redirect_to: 'https://journals.aps.org/prd/abstract/10.1103/f6yv-gzn7'
 ---
 
