@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Song of the Day
-permalink: /song-of-the-day/
+title: Personal
+permalink: /Personal/
 ---
 
 
