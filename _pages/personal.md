@@ -55,14 +55,14 @@ frameborder="0" allowfullscreen>
 
 <div style="font-size: 0.85em; opacity: 0.9; margin-top: 10px;">
 
-**Movies**
-- *Dune (2021)* — https://www.imdb.com/title/tt1160419/  
-- *2001: A Space Odyssey* — https://www.imdb.com/title/tt0062622/  
+### 🎬 Movies  
+- *Dune (2021)* 
+- *2001: A Space Odyssey* 
 
-**Books**
-- *1984 -- George Orwell*  
-- *Animal farm — George Orwell*  
-- *Before the coffee gets cold — Toshikazu Kawaguchi*
+### 📚 Books  
+- *1984 — George Orwell*  
+- *Animal Farm — George Orwell*  
+- *Before the Coffee Gets Cold — Toshikazu Kawaguchi*  
 
 </div>
 </details>
