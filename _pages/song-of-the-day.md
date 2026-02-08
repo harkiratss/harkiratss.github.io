@@ -1,3 +1,10 @@
+---
+layout: page
+title: Song of the Day
+permalink: /song-of-the-day/
+---
+
+
 {% assign songs = site.data.songs.songs %}
 {% assign n = songs | size %}
 
