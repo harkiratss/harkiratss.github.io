@@ -11,12 +11,12 @@ book_of_the_month: "Ubik -- Philip K Dick"
 book_link: "https://www.goodreads.com/book/show/22590.Ubik"
 # ===============================
 ---
-<blockquote style="font-style: italic; opacity: 0.85; white-space: pre-line;">
-The wise man looks into space
-and does not regard the small as too little,
-nor the great as too big,
-for he knows that there is no limit to dimensions.
-Zhuang Zhou
+<blockquote style="font-style: italic; opacity: 0.85; text-align: center;">
+... the wise man looks into space<br>
+and does not regard the small as too little,<br>
+nor the great as too big,<br>
+for he knows that there is no limit to dimensions.<br>
+— <strong>Zhuang Zhou</strong>
 </blockquote>
 
 
@@ -94,45 +94,45 @@ frameborder="0" allowfullscreen>
 </div>
 </details>
 
-<blockquote style="font-style: italic; opacity: 0.85; white-space: pre-line;">
-Between my finger and my thumb   
-The squat pen rests; snug as a gun.
+<blockquote style="font-style: italic; opacity: 0.85; text-align: center;">
+Between my finger and my thumb<br>
+The squat pen rests; snug as a gun.<br>
 
-Under my window, a clean rasping sound   
-When the spade sinks into gravelly ground:   
-My father, digging. I look down
+Under my window, a clean rasping sound<br>
+When the spade sinks into gravelly ground:<br>
+My father, digging. I look down<br>
 
-Till his straining rump among the flowerbeds   
-Bends low, comes up twenty years away   
-Stooping in rhythm through potato drills   
-Where he was digging.
+Till his straining rump among the flowerbeds<br>   
+Bends low, comes up twenty years away<br>
+Stooping in rhythm through potato drills<br>
+Where he was digging.<br>
 
-The coarse boot nestled on the lug, the shaft   
-Against the inside knee was levered firmly.
-He rooted out tall tops, buried the bright edge deep
-To scatter new potatoes that we picked,
-Loving their cool hardness in our hands.
+The coarse boot nestled on the lug, the shaft<br>
+Against the inside knee was levered firmly.<br>
+He rooted out tall tops, buried the bright edge deep<br>
+To scatter new potatoes that we picked,<br>
+Loving their cool hardness in our hands.<br>
 
-By God, the old man could handle a spade.   
-Just like his old man.
+By God, the old man could handle a spade.<br>   
+Just like his old man.<br>
 
-My grandfather cut more turf in a day
-Than any other man on Toner’s bog.
-Once I carried him milk in a bottle
-Corked sloppily with paper. He straightened up
-To drink it, then fell to right away
-Nicking and slicing neatly, heaving sods
-Over his shoulder, going down and down
-For the good turf. Digging.
+My grandfather cut more turf in a day<br>
+Than any other man on Toner’s bog.<br>
+Once I carried him milk in a bottle<br>
+Corked sloppily with paper. He straightened up<br>
+To drink it, then fell to right away<br>
+Nicking and slicing neatly, heaving sods<br>
+Over his shoulder, going down and down<br>
+For the good turf. Digging.<br>
 
-The cold smell of potato mould, the squelch and slap
-Of soggy peat, the curt cuts of an edge
-Through living roots awaken in my head.
-But I’ve no spade to follow men like them.
+The cold smell of potato mould, the squelch and slap<br>
+Of soggy peat, the curt cuts of an edge<br>
+Through living roots awaken in my head.<br>
+But I’ve no spade to follow men like them.<br>
 
-Between my finger and my thumb
-The squat pen rests.
-I’ll dig with it.
+Between my finger and my thumb<br>
+The squat pen rests.<br>
+I’ll dig with it.<br>
 
-Seamus Heaney, "Digging" from Death of a Naturalist.
+-- <strong>Seamus Heaney, "Digging" from Death of a Naturalist.<strong>
 </blockquote>
