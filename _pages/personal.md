@@ -55,14 +55,33 @@ frameborder="0" allowfullscreen>
 
 <div style="font-size: 0.85em; opacity: 0.9; margin-top: 10px;">
 
-### 🎬 Movies  
-- *Dune (2021)* 
-- *2001: A Space Odyssey* 
+<h3>🎬 Movies</h3>
+<ul>
+  <li>
+    <em>Dune (2021)</em> — 
+    <a href="https://www.imdb.com/title/tt1160419/" target="_blank">IMDb</a>
+  </li>
+  <li>
+    <em>2001: A Space Odyssey</em> — 
+    <a href="https://www.imdb.com/title/tt0062622/" target="_blank">IMDb</a>
+  </li>
+</ul>
 
-### 📚 Books  
-- *1984 — George Orwell*  
-- *Animal Farm — George Orwell*  
-- *Before the Coffee Gets Cold — Toshikazu Kawaguchi*  
+<h3>📚 Books</h3>
+<ul>
+  <li>
+    <em>1984</em> — George Orwell — 
+    <a href="https://www.goodreads.com/book/show/40961427-1984" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>Animal Farm</em> — George Orwell — 
+    <a href="https://www.goodreads.com/book/show/7613.Animal_Farm" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>Before the Coffee Gets Cold</em> — Toshikazu Kawaguchi — 
+    <a href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold" target="_blank">Goodreads</a>
+  </li>
+</ul>
 
 </div>
 </details>
