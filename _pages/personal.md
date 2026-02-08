@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ...the wise man looks into space
+title: The wise man looks into space
 and does not regard the small as too little,
 nor the great as too big,
 for he knows that there is no limit to dimensions.
