@@ -1,20 +1,23 @@
----
-layout: page
-title: Song of the Day
-permalink: /song-of-the-day/
----
+{% assign songs = site.data.songs.songs %}
+{% assign n = songs | size %}
 
-{% assign dayIndex = site.time | date: "%j" | plus: 0 %}
-{% assign idx = dayIndex | modulo: site.data.youtube_songs.songs.size %}
-{% assign song = site.data.youtube_songs.songs[idx] %}
+{% if n == 0 %}
+⚠️ **No songs loaded!**  
+Check that `_data/songs.yml` exists and is valid YAML.
 
-## 🎵 Song of the Day
+{% else %}
+
+{% assign day_of_year = site.time | date: "%j" | plus: 0 %}
+{% assign idx = day_of_year | modulo: n %}
+{% assign song = songs[idx] %}
+
+## 🎧 Song of the Day
 
 **{{ song.name }}**
 
-<iframe width="100%" height="400"
- src="https://www.youtube.com/embed/{{ song.url | split: '=' | last }}"
- frameborder="0" allowfullscreen>
+<iframe width="560" height="315"
+src="{{ song.url | replace: 'watch?v=', 'embed/' }}"
+frameborder="0" allowfullscreen>
 </iframe>
 
-[Open on YouTube]({{ song.url }})
+{% endif %}
