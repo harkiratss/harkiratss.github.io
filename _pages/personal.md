@@ -11,7 +11,7 @@ book_of_the_month: "Ubik -- Philip K Dick"
 book_link: "https://www.goodreads.com/book/show/22590.Ubik"
 # ===============================
 ---
-<blockquote style="font-style: italic; opacity: 0.85;">
+<blockquote style="font-style: italic; opacity: 0.85; white-space: pre-line;">
 The wise man looks into space
 and does not regard the small as too little,
 nor the great as too big,
@@ -94,7 +94,7 @@ frameborder="0" allowfullscreen>
 </div>
 </details>
 
-<blockquote style="font-style: italic; opacity: 0.85;">
+<blockquote style="font-style: italic; opacity: 0.85; white-space: pre-line;">
 Between my finger and my thumb   
 The squat pen rests; snug as a gun.
 
