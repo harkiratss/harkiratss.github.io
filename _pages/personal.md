@@ -95,44 +95,28 @@ frameborder="0" allowfullscreen>
 </details>
 
 <blockquote style="font-style: italic; opacity: 0.85; text-align: center;">
-Between my finger and my thumb<br>
-The squat pen rests; snug as a gun.<br>
+Hey, little train, we're jumping on<br>
+The train that goes to the Kingdom<br>
+We're happy, ma, we're having fun<br>
+The train ain't even left the station<br>
+Hey, little train, wait for me<br>
+I once was blind, but now I see<br>
+And have you left a seat for me?<br>
+Is that such a stretch of the imagination?<br>
+Hey, little train, wait for me<br>
+Was held in chains, but now I'm free<br>
+I'm hanging in there, don't you see?<br>
+In this process of elimination (ooh, children)<br>
+Hey, little train, we're jumping on<br>
+The train that goes to the Kingdom<br>
+We are happy, ma, we are having fun (ooh, children)<br>
+Beyond my wildest expectation (ooh, children)<br>
+Hey, little train, we're jumping on<br>
+The train that goes to the Kingdom<br>
+We're happy, ma, we're having fun (ooh, children)<br>
+The train ain't even left the station (ooh, children)<br>
+Hey, little train, wait for me<br>
+I once was blind but now I see, ooh-ooh-ooh<br>
 
-Under my window, a clean rasping sound<br>
-When the spade sinks into gravelly ground:<br>
-My father, digging. I look down<br>
-
-Till his straining rump among the flowerbeds<br>   
-Bends low, comes up twenty years away<br>
-Stooping in rhythm through potato drills<br>
-Where he was digging.<br>
-
-The coarse boot nestled on the lug, the shaft<br>
-Against the inside knee was levered firmly.<br>
-He rooted out tall tops, buried the bright edge deep<br>
-To scatter new potatoes that we picked,<br>
-Loving their cool hardness in our hands.<br>
-
-By God, the old man could handle a spade.<br>   
-Just like his old man.<br>
-
-My grandfather cut more turf in a day<br>
-Than any other man on Toner’s bog.<br>
-Once I carried him milk in a bottle<br>
-Corked sloppily with paper. He straightened up<br>
-To drink it, then fell to right away<br>
-Nicking and slicing neatly, heaving sods<br>
-Over his shoulder, going down and down<br>
-For the good turf. Digging.<br>
-
-The cold smell of potato mould, the squelch and slap<br>
-Of soggy peat, the curt cuts of an edge<br>
-Through living roots awaken in my head.<br>
-But I’ve no spade to follow men like them.<br>
-
-Between my finger and my thumb<br>
-The squat pen rests.<br>
-I’ll dig with it.<br>
-
--- <strong>Seamus Heaney, "Digging" from Death of a Naturalist.<strong>
+-- <strong>Nicholas Edward Cave, O Children.<strong>
 </blockquote>
