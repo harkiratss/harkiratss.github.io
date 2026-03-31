@@ -7,8 +7,8 @@ permalink: /personal/
 movie_of_the_week: "Project Hail Mary"
 movie_link: "https://www.imdb.com/title/tt12042730/"
 
-book_of_the_month: ""
-book_link: "https://www.goodreads.com/book/show/"
+book_of_the_month: "The Plague"
+book_link: "https://www.goodreads.com/book/show/11989.The_Plague"
 # ===============================
 ---
 <blockquote style="font-style: italic; opacity: 0.85; text-align: center;">
