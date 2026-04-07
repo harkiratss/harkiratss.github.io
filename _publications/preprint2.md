@@ -3,7 +3,7 @@ title: "Cavity-controlled Inhibition of Decoherence in Accelerated Quantum Detec
 collection: publications
 category: preprints
 permalink: /publication/arxiv_2
-date: May 22, 2025
+date: Apr 2, 2026
 other_authors: "Shagun Kaushal and Kinjalk Lochan"
 venue: 'arXiv e-Print: 2604.02422 [gr-qc]'
 paperurl: 'https://arxiv.org/pdf/2604.02422'
