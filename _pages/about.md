@@ -103,13 +103,23 @@ Here’s a glimpse into some of my recent research highlights.
 
 <div class="slideshow-container" id="slideshow">
 
+  <div class="slide" style="display: flex;">
+    <div class="slide-images">
+      <img src="/images/QC3.png" alt="QC3" />
+      <img src="/images/QC4.png" alt="QC4" />
+    </div>
+    <div class="caption">
+     Quantum dynamics of AdS-dust Universe. Dashed black line represents expectation value of volume variable with dashed gray lines representing quantum uncertainty while solid line depicts classical behavior. The heatmap shows the probability distribution associated with the wave packet. Left: Klauder-Crawford distribution, Right: Gaussian distribution.
+    </div>
+  </div>
+  
   <div class="slide">
     <div class="slide-images">
       <img src="/images/contour_plot_A=5.0.png" alt="Field Correlation" />
       <img src="/images/contour_plot_A=5.0_m.png" alt="Momentum Correlation" />
     </div>
     <div class="caption">
-      Nonlocal quantum correlations of a test field propagating in a spacetime undergoing critical collapse, evaluated at the end of the numerical simulation. Dashed black lines = areal radius of apparent horizon, red dashed lines = location of apparent horizon. Top: field correlation, Bottom: momentum correlation.
+      Nonlocal quantum correlations of a test field propagating in a spacetime undergoing critical collapse, evaluated at the end of the numerical simulation. Dashed black lines = areal radius of apparent horizon, red dashed lines = location of apparent horizon. Left: field correlation, Right: momentum correlation.
     </div>
   </div>
   
@@ -119,7 +129,7 @@ Here’s a glimpse into some of my recent research highlights.
       <img src="/images/QC2.png" alt="QC2" />
     </div>
     <div class="caption">
-      The quantum dynamics of the FLRW universe with dust and a positive cosmological constant depicting quantum. Heatmap shows the probability distribution associated with the wave packet; solid black curve = expectation value of volume, dotted = classical trajectory, dashed = uncertainty region. Top: broader Λ-distribution, Bottom: sharper Λ-distribution.
+      The quantum dynamics of the FLRW universe with dust and a positive cosmological constant depicting quantum. Heatmap shows the probability distribution associated with the wave packet; solid black curve = expectation value of volume, dotted = classical trajectory, dashed = uncertainty region. Left: broader Λ-distribution, Right: sharper Λ-distribution.
     </div>
   </div>
   
