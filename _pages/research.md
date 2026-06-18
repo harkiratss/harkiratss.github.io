@@ -95,6 +95,11 @@ author_profile: true
   </div>
 
   <div class="collab-card">
+    <img src="/images/research_cards/kothawala.jpeg" alt="Dawood Kothawala">
+    <a class="collab-name" href="https://physics.iitm.ac.in/~dawood/">Dawood Kothawala</a>
+  </div>
+
+  <div class="collab-card">
     <img src="/images/research_cards/dips.jpeg" alt="Dipayan Mukherjee">
     <a class="collab-name" href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">Dipayan Mukherjee</a>
   </div>
@@ -104,13 +109,25 @@ author_profile: true
     <a class="collab-name" href="https://scholar.google.com/citations?hl=en&user=rb0NaaMAAAAJ">Vikramaditya Mondal</a>
   </div>
 
+ <div class="collab-card">
+    <img src="/images/research_cards/kaushal.jpeg" alt="Shagun Kaushal">
+    <a class="collab-name" href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a>
+  </div>
+
+  <div class="collab-card">
+    <img src="/images/research_cards/sds.jpeg" alt="Subhodeep Sarkar">
+    <a class="collab-name" href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Subhodeep Sarkar</a>
+  </div>
+
+
   <div class="collab-card">
     <img src="/images/research_cards/pandita.jpg" alt="Ashish Pandita">
     <a class="collab-name" href="https://in.linkedin.com/in/ashish-pandita-7850a21b2">Ashish Pandita</a>
   </div>
- <div class="collab-card">
-    <img src="/images/research_cards/kaushal.jpeg" alt="Shagun Kaushal">
-    <a class="collab-name" href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a>
+
+  <div class="collab-card">
+    <img src="/images/research_cards/Mayank.jpeg" alt="Mayank">
+    <a class="collab-name" href="https://orcid.org/0009-0004-1610-9059">Mayank</a>
   </div>
 
 </div>
