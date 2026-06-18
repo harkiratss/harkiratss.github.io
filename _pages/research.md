@@ -95,7 +95,7 @@ author_profile: true
   </div>
 
   <div class="collab-card">
-    <img src="/images/research_cards/kothawala.jpeg" alt="Dawood Kothawala">
+    <img src="/images/research_cards/dawood.jpg" alt="Dawood Kothawala">
     <a class="collab-name" href="https://physics.iitm.ac.in/~dawood/">Dawood Kothawala</a>
   </div>
 
@@ -115,8 +115,8 @@ author_profile: true
   </div>
 
   <div class="collab-card">
-    <img src="/images/research_cards/sds.jpeg" alt="Subhodeep Sarkar">
-    <a class="collab-name" href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Subhodeep Sarkar</a>
+    <img src="/images/research_cards/subhodeep.webp" alt="Subhodeep Sarkar">
+    <a class="collab-name" href="https://subhodeeps.vercel.app/">Subhodeep Sarkar</a>
   </div>
 
 
@@ -126,7 +126,7 @@ author_profile: true
   </div>
 
   <div class="collab-card">
-    <img src="/images/research_cards/Mayank.jpeg" alt="Mayank">
+    <img src="/images/research_cards/Mayank.jpg" alt="Mayank">
     <a class="collab-name" href="https://orcid.org/0009-0004-1610-9059">Mayank</a>
   </div>
 
