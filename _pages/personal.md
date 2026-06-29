@@ -187,20 +187,6 @@ Hey, little train, wait for me<br>
 I once was blind, but now I see<br>
 And have you left a seat for me?<br>
 Is that such a stretch of the imagination?<br>
-Hey, little train, wait for me<br>
-Was held in chains, but now I'm free<br>
-I'm hanging in there, don't you see?<br>
-In this process of elimination (ooh, children)<br>
-Hey, little train, we're jumping on<br>
-The train that goes to the Kingdom<br>
-We are happy, ma, we are having fun (ooh, children)<br>
-Beyond my wildest expectation (ooh, children)<br>
-Hey, little train, we're jumping on<br>
-The train that goes to the Kingdom<br>
-We're happy, ma, we're having fun (ooh, children)<br>
-The train ain't even left the station (ooh, children)<br>
-Hey, little train, wait for me<br>
-I once was blind but now I see, ooh-ooh-ooh<br>
 
 -- <strong>Nicholas Edward Cave, O Children.<strong>
-</blockquote>
+
