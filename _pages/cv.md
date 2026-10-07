@@ -31,15 +31,19 @@ redirect_from:
 
 <strong>Publications</strong>
 ======
-[1] Harkirat Singh Sahota, Shagun Kaushal, & Kinjalk Lochan, “Cavity-controlled inhibition of      decoherence in accelerated quantum detectors”, Phys.Rev.A 114 (2026) 3, 032209
+[1] Harkirat Singh Sahota, Shagun Kaushal, & Kinjalk Lochan, “Cavity-controlled inhibition of
+    decoherence in accelerated quantum detectors”, Phys.Rev.A 114 (2026) 3, 032209
    
-[2] Harkirat Singh Sahota, Dipayan Mukherjee, & S. Shankaranarayanan, “Unitary quantum matter-     bounce in a universe with a positive cosmological constant”, Eur. Phys. J. C 86 (2026) 8,      979  
+[2] Harkirat Singh Sahota, Dipayan Mukherjee, & S. Shankaranarayanan, “Unitary quantum matter-
+    bounce in a universe with a positive cosmological constant”, Eur. Phys. J. C 86 (2026) 8,
+    979  
    
 [3] Dipayan Mukherjee, Harkirat Singh Sahota, & S. Shankaranarayanan “Quantum Cosmology as
     a Hydrogen atom: Discrete Λ and cyclic Universes from Wheeler-DeWitt quantization",
     Class. Quant. Grav. 43 (2026) 3, 035015
 
-[4] Dipayan Mukherjee, Harkirat Singh Sahota, & Swati Gavas, “A dynamical systems perspective      on the thermodynamics of late-time cosmology”, Fortsch. Phys. 74 (2026) 4, e70094
+[4] Dipayan Mukherjee, Harkirat Singh Sahota, & Swati Gavas, “A dynamical systems perspective
+    on the thermodynamics of late-time cosmology”, Fortsch. Phys. 74 (2026) 4, e70094
 
 [5] Harkirat Singh Sahota, Suprit Singh, & Ashish Pandita, “Non-local correlations of a test       quantum field in gravitational collapse”, Phys. Rev. D 112 (2025) 12, 124020
    
