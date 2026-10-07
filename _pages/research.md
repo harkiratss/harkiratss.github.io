@@ -101,7 +101,7 @@ author_profile: true
 
   <div class="collab-card">
     <img src="/images/research_cards/dips.jpeg" alt="Dipayan Mukherjee">
-    <a class="collab-name" href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">Dipayan Mukherjee</a>
+    <a class="collab-name" href="https://dipayanm.github.io/">Dipayan Mukherjee</a>
   </div>
 
   <div class="collab-card">
