@@ -31,41 +31,49 @@ redirect_from:
 
 <strong>Publications</strong>
 ======
-[1] Vikramaditya Mondal, Harkirat Singh Sahota, & Kinjalk Lochan, “Exact path integrals
+[1] Harkirat Singh Sahota, Shagun Kaushal, & Kinjalk Lochan, “Cavity-controlled inhibition of      decoherence in accelerated quantum detectors”, Phys.Rev.A 114 (2026) 3, 032209
+   
+[2] Harkirat Singh Sahota, Dipayan Mukherjee, & S. Shankaranarayanan, “Unitary quantum matter-     bounce in a universe with a positive cosmological constant”, Eur. Phys. J. C 86 (2026) 8,      979  
+   
+[3] Dipayan Mukherjee, Harkirat Singh Sahota, & S. Shankaranarayanan “Quantum Cosmology as
+    a Hydrogen atom: Discrete Λ and cyclic Universes from Wheeler-DeWitt quantization",
+    Class. Quant. Grav. 43 (2026) 3, 035015
+
+[4] Dipayan Mukherjee, Harkirat Singh Sahota, & Swati Gavas, “A dynamical systems perspective      on the thermodynamics of late-time cosmology”, Fortsch. Phys. 74 (2026) 4, e70094
+
+[5] Harkirat Singh Sahota, Suprit Singh, & Ashish Pandita, “Non-local correlations of a test       quantum field in gravitational collapse”, Phys. Rev. D 112 (2025) 12, 124020
+   
+[6] Vikramaditya Mondal, Harkirat Singh Sahota, & Kinjalk Lochan, “Exact path integrals
     on half-line in quantum cosmology with a fluid clock and aspects of operator ordering
     ambiguity” JHEP 05, (2025) 128
 
-[2] Harkirat Singh Sahota, & Kinjalk Lochan, “Are accelerated detectors sensitive to Planck
+[7] Harkirat Singh Sahota, & Kinjalk Lochan, “Are accelerated detectors sensitive to Planck
     scale changes?” Phys. Rev. D 111, (2025) 04, 045023
 
-[3] Harkirat Singh Sahota, “Imprints of the operator ordering ambiguity on the dynamics
-    of perfect fluid dominated quantum Universe”, Class. Quant. Grav. 41, 175006, (2024)
+[8] Harkirat Singh Sahota, “Imprints of the operator ordering ambiguity on the dynamics
+    of perfect fluid dominated quantum Universe”, Class. Quant. Grav. 41 (2024) 17, 175006
 
-[4] Dipayan Mukherjee, & Harkirat Singh Sahota, “Einstein and Jordan frame correspon-
-    dence in quantum cosmology: expansion-collapse duality” Eur. Phys. J. C 83, 803 (2023)
+[9] Dipayan Mukherjee, & Harkirat Singh Sahota, “Einstein and Jordan frame correspon-
+    dence in quantum cosmology: expansion-collapse duality” Eur. Phys. J. C 83 (2023) 803 
 
-[5] Harkirat Singh Sahota, & Kinjalk Lochan, “Analyzing quantum gravity spillover in the
-    semiclassical regime”, Eur. Phys. J. C 83, 1162 (2023)
+[10] Harkirat Singh Sahota, & Kinjalk Lochan, “Analyzing quantum gravity spillover in the
+    semiclassical regime”, Eur. Phys. J. C 83 (2023) 1162 
 
-[6] Harkirat Singh Sahota, & Kinjalk Lochan, “Infrared signatures of a quantum bounce
-    in a minisuperspace analysis of Lemaître-Tolman-Bondi dust collapse” Phys. Rev. D 104,
+[11] Harkirat Singh Sahota, & Kinjalk Lochan, “Infrared signatures of a quantum bounce
+    in a minisuperspace analysis of Lemaître-Tolman-Bondi dust collapse” Phys. Rev. D 104
     (2021) 12, 126027
 
 <strong>Preprints</strong>
 ======
-[1] Harkirat Singh Sahota, Dipayan Mukherjee, & S. Shankaranarayanan, “An exactly solvable model of quantum cosmology: the Hydrogen atom analogy with dust and cosmological constant”, arXiv:2505.16863
-
-[2] Harkirat Singh Sahota, Suprit Singh, & Ashish Pandita, “Non-local correlations of a test quantum field in gravitational collapse”, arXiv:2505.04701
-
-[3] Dipayan Mukherjee, Harkirat Singh Sahota, & Swati Gavas, “A dynamical systems perspective on the thermodynamics of late-time cosmology”, arXiv:2509.04964
+[1] Harkirat Singh Sahota, Shagun Kaushal, & Kinjalk Lochan, “Cavity-Induced Suppression of Entanglement and Enhancement of Quantum Discord”, 2605.28055
 
 <strong>Conference proceedings</strong>
 ======
-[1] Harkirat Singh Sahota, & Kinjalk Lochan, “Infrared signatures of quantum bounce in collapsing
-    geometry”, 16th Marcel Grossmann Meeting, pp. 4247-4255 (2023)
+[1] Harkirat Singh Sahota, & Kinjalk Lochan, “Infrared signatures of quantum bounce in
+    collapsing geometry”, 16th Marcel Grossmann Meeting, pp. 4247-4255 (2023)
 
-[2] Harkirat Singh Sahota, & Kinjalk Lochan, Operator ordering ambiguity in observables of quantum
-    cosmology”, 16th Marcel Grossmann Meeting, pp. 538-547 (2023)
+[2] Harkirat Singh Sahota, & Kinjalk Lochan, Operator ordering ambiguity in observables of 
+    quantum cosmology”, 16th Marcel Grossmann Meeting, pp. 538-547 (2023)
 
 <strong>Presentations in Scientific Events</strong>
 ======
