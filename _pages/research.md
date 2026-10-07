@@ -32,7 +32,7 @@ author_profile: true
       - <a href="https://www.iisermohali.ac.in/faculty/dps/kinjalk">Kinjalk Lochan</a>
       - <a href="https://supritsinghlab.github.io">Suprit Singh</a>
       - <a href="https://homepages.iitb.ac.in/~shanki/index.html">S. Shankaranarayanan</a>
-      - <a href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">Dipayan Mukherjee</a>
+      - <a href="https://dipayanm.github.io/">Dipayan Mukherjee</a>
       - <a href="https://scholar.google.com/citations?hl=en&user=rb0NaaMAAAAJ">Vikramaditya Mondal</a>
       - <a href="https://in.linkedin.com/in/ashish-pandita-7850a21b2">Ashish Pandita</a>
       - <a href="https://in.linkedin.com/in/shagun-kaushal-63881a231">Shagun Kaushal</a> -->
