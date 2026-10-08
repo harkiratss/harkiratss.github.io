@@ -49,27 +49,27 @@ author_profile: true
 
 .collab-card {
   background: #f8f8f8;
-  border-radius: 10px;
-  padding: 1rem;
+  border-radius: 5px;
+  padding: 0.5rem;
   text-align: center;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   transition: transform 0.2s ease;
 }
 .collab-card:hover {
   transform: scale(1.03);
 }
 .collab-card img {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   object-fit: cover;
   border-radius: 50%;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem;
 }
 .collab-card .collab-name {
   display: block;
   font-weight: bold;
   color: #333;
-  margin-top: 0.5rem;
+  margin-top: 0.25rem;
   text-decoration: none;
 }
 .collab-card .collab-name:hover {
