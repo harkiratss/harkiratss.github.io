@@ -59,8 +59,8 @@ author_profile: true
   transform: scale(1.03);
 }
 .collab-card img {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   border-radius: 50%;
   margin-bottom: 0.25rem;
@@ -69,7 +69,7 @@ author_profile: true
   display: block;
   font-weight: bold;
   color: #333;
-  margin-top: 0.25rem;
+  margin-top: 0.5rem;
   text-decoration: none;
 }
 .collab-card .collab-name:hover {
