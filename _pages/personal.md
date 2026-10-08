@@ -7,7 +7,7 @@ permalink: /personal/
 movie_of_the_week: "Project Hail Mary"
 movie_link: "https://www.imdb.com/title/tt12042730/"
 
-book_of_the_month: "The Plague"
+book_of_the_month: "The Plague" -- Albert Camus
 book_link: "https://www.goodreads.com/book/show/11989.The_Plague"
 # ===============================
 ---
@@ -46,13 +46,13 @@ frameborder="0" allowfullscreen>
 
 ---
 
-## 🎬 Movie of the Week  
-👉 **<a href="{{ page.movie_link }}" target="_blank">{{ page.movie_of_the_week }}</a>**
+## 🎬 Recent favorite  
+   **<a href="{{ page.movie_link }}" target="_blank">{{ page.movie_of_the_week }}</a>**
 
 ---
 
-## 📚 Book of the Month  
-👉 **<a href="{{ page.book_link }}" target="_blank">{{ page.book_of_the_month }}</a>**
+## 📚 Ongoing reading  
+   **<a href="{{ page.book_link }}" target="_blank">{{ page.book_of_the_month }}</a>**
 
 ---
 
@@ -66,7 +66,7 @@ frameborder="0" allowfullscreen>
 <h3>🎬 Movies</h3>
 <ul>
   <li>
-    <em>One Battle After Another -- Paul Thomas Anderson (2026)</em>
+    <em>One Battle After Another -- Paul Thomas Anderson (2026)</em> —
     <a href="https://www.imdb.com/title/tt30144839/" target="_blank">IMDb</a>
   </li>
   <li>
@@ -158,6 +158,10 @@ frameborder="0" allowfullscreen>
 <h3>📚 Books</h3>
 <ul>
   <li>
+    <em>The Plague</em> — Albert Camus — 
+    <a href="https://www.goodreads.com/book/show/11989.The_Plague" target="_blank">Goodreads</a>
+  </li>
+  <li>
     <em>Ubik</em> — Philip K Dick — 
     <a href="https://www.goodreads.com/book/show/22590.Ubik" target="_blank">Goodreads</a>
   </li>
@@ -172,6 +176,42 @@ frameborder="0" allowfullscreen>
   <li>
     <em>Before the Coffee Gets Cold</em> — Toshikazu Kawaguchi — 
     <a href="https://www.goodreads.com/book/show/44421460-before-the-coffee-gets-cold" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>The The Architect's Apprentice</em> — Elif Shafak — 
+    <a href="https://www.goodreads.com/book/show/22571629-the-architect-s-apprentice" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>The Forty Rules of Love</em> — Elif Shafak — 
+    <a href="https://www.goodreads.com/en/book/show/6642715-the-forty-rules-of-love" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>Anxious People</em> — Fredrik Backman — 
+    <a href="https://www.goodreads.com/book/show/49127718-anxious-people" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>A Man Called Ove</em> — Fredrik Backman — 
+    <a href="https://www.goodreads.com/book/show/18774964-a-man-called-ove" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>The Gods Themselves</em> — Isaac Asimov — 
+    <a href="https://www.goodreads.com/book/show/41821.The_Gods_Themselves" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>Essays in Love</em> — Alain de Botton — 
+    <a href="https://www.goodreads.com/book/show/23427.Essays_in_Love" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>Talkhiyaan</em> — Sahir Ludhianvi — 
+    <a href="https://www.goodreads.com/book/show/15754940-talkhiyaan" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>The Three-Body Problem</em> — Liu Cixin — 
+    <a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem" target="_blank">Goodreads</a>
+  </li>
+  <li>
+    <em>The Silent Patient</em> — Alex Michaelides — 
+    <a href="https://www.goodreads.com/book/show/40097951-the-silent-patient" target="_blank">Goodreads</a>
   </li>
 </ul>
 
