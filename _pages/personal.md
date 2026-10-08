@@ -7,7 +7,7 @@ permalink: /personal/
 movie_of_the_week: "Project Hail Mary"
 movie_link: "https://www.imdb.com/title/tt12042730/"
 
-book_of_the_month: "The Plague" -- Albert Camus
+book_of_the_month: "The Plague-- Albert Camus" 
 book_link: "https://www.goodreads.com/book/show/11989.The_Plague"
 # ===============================
 ---
